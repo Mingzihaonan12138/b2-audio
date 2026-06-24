@@ -1,0 +1,372 @@
+{
+  "id": "test4-part3",
+  "title": "LC General B2 - Test 4 - Part 3",
+  "audio": "https://cdn.jsdelivr.net/gh/Mingzihaonan12138/b2-audio@main/listen/part3.mp3",
+  "fullTranscript": "Hello, and welcome to our university library! Today, I'm going to give you a brief introduction into how the library works and your roles here, but as Chief Librarian, my door's always open if you have questions later. Now, the library was founded in 1894 and in 1951 acquired its present building here at 95 St. Joseph Street. Within the library we organise our reference books using the Dewey Decimal system named after an American librarian who invented the system in 1876. Now, your main responsibility will be to assist our library users in locating the resources they need in our collection. Other, ongoing tasks include acquiring new materials and digital resources, cataloguing them, and maintaining the organisation of the library's collection. One of our critical responsibilities is deciding which materials to include or remove from the collection, and that's done by considering both user demand and budget limitations. Right, so some basic information .... this main library's open from Monday to Friday, 8.00 a.m. to 10.00 p.m., and at the weekend from 10.00 a.m. to 6.00 p.m. But we extend those hours during the periods when exams are underway, so you may have to work later then. The library's mostly for reference, but we do have a fiction section on the third floor. It's quite limited, but if a library user requests a particular title which isn't in our collection, we can order it from the main city library. Of course, as you probably already know because you use them for your own studies, we have a large number of journals which the library subscribes to. They're situated on the second floor, away from the reference books. These items are arranged alphabetically by title, and some of you may be spending quite a lot of your time in that section, keeping it all in order. Now, as you know, this library's on the main campus, but we have a smaller one, the Johnson library, that's spelled J-O-H-N-S-O-N, on the secondary campus. It's only open in very busy periods, but you might be asked to work there sometimes. As another part of your job, you'll also help users with printing, photocopying and scanning. We've got printers and copiers available on each floor and we don't normally charge for those services. Now, a new addition to our services is our twenty-four seven online resources... e-books, articles and research databases. It's a huge help, especially for those students who're having to do late-night study sessions as registered users can access the online resources from their own homes. Now, while we want our library to be a friendly place, we also need to maintain an environment which is good for studying, so you'll need to remind users to keep the noise down, especially in the study areas.",
+  "items": [
+    {
+      "n": 1,
+      "quote": "Hello, and welcome to our university library!",
+      "segment": {
+        "start": 53.35,
+        "end": 57.71
+      },
+      "gaps": [
+        {
+          "word": "university library"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "n": 2,
+      "quote": "Today, I'm going to give you a brief introduction into how the library works and your roles here, but as Chief Librarian, my door's always open if you have questions later.",
+      "segment": {
+        "start": 57.07,
+        "end": 68.29
+      },
+      "gaps": [
+        {
+          "word": "Chief Librarian"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "n": 3,
+      "quote": "Now, the library was founded in 1894 and in 1951 acquired its present building here at 95 St. Joseph Street.",
+      "segment": {
+        "start": 67.53,
+        "end": 77.69
+      },
+      "gaps": [
+        {
+          "word": "1894",
+          "maps_to": "1894"
+        },
+        {
+          "word": "1951"
+        },
+        {
+          "word": "St. Joseph Street"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "n": 4,
+      "quote": "Within the library we organise our reference books using the Dewey Decimal system named after an American librarian who invented the system in 1876.",
+      "segment": {
+        "start": 76.93,
+        "end": 87.03
+      },
+      "gaps": [
+        {
+          "word": "Dewey Decimal system"
+        },
+        {
+          "word": "1876"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "n": 5,
+      "quote": "Now, your main responsibility will be to assist our library users in locating the resources they need in our collection.",
+      "segment": {
+        "start": 86.55,
+        "end": 94.25
+      },
+      "gaps": [
+        {
+          "word": "main responsibility"
+        },
+        {
+          "word": "locating resources"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "n": 6,
+      "quote": "Other, ongoing tasks include acquiring new materials and digital resources, cataloguing them, and maintaining the organisation of the library's collection.",
+      "segment": {
+        "start": 93.75,
+        "end": 104.13
+      },
+      "gaps": [
+        {
+          "word": "acquiring"
+        },
+        {
+          "word": "digital resources"
+        },
+        {
+          "word": "cataloguing"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "n": 7,
+      "quote": "One of our critical responsibilities is deciding which materials to include or remove from the collection, and that's done by considering both user demand and budget limitations.",
+      "segment": {
+        "start": 103.81,
+        "end": 115.79
+      },
+      "gaps": [
+        {
+          "word": "critical responsibilities"
+        },
+        {
+          "word": "budget limitations",
+          "maps_to": "budget"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "n": 8,
+      "quote": "Right, so some basic information .... this main library's open from Monday to Friday, 8.00 a.m. to 10.00 p.m., and at the weekend from 10.00 a.m. to 6.00 p.m.",
+      "segment": {
+        "start": 115.33,
+        "end": 129.53
+      },
+      "gaps": [
+        {
+          "word": "8.00 a.m."
+        },
+        {
+          "word": "10.00 p.m."
+        },
+        {
+          "word": "weekend"
+        },
+        {
+          "word": "6.00 p.m."
+        }
+      ],
+      "note": ""
+    },
+    {
+      "n": 9,
+      "quote": "But we extend those hours during the periods when exams are underway, so you may have to work later then.",
+      "segment": {
+        "start": 125.33,
+        "end": 132.51
+      },
+      "gaps": [
+        {
+          "word": "exams",
+          "maps_to": "exams"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "n": 10,
+      "quote": "The library's mostly for reference, but we do have a fiction section on the third floor.",
+      "segment": {
+        "start": 316.21,
+        "end": 322.17
+      },
+      "gaps": [
+        {
+          "word": "fiction section"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "n": 11,
+      "quote": "It's quite limited, but if a library user requests a particular title which isn't in our collection, we can order it from the main city library.",
+      "segment": {
+        "start": 321.43,
+        "end": 330.95
+      },
+      "gaps": [
+        {
+          "word": "main city library"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "n": 12,
+      "quote": "Of course, as you probably already know because you use them for your own studies, we have a large number of journals which the library subscribes to.",
+      "segment": {
+        "start": 146.33,
+        "end": 155.75
+      },
+      "gaps": [
+        {
+          "word": "journals",
+          "maps_to": "journals"
+        },
+        {
+          "word": "subscribes"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "n": 13,
+      "quote": "They're situated on the second floor, away from the reference books.",
+      "segment": {
+        "start": 154.79,
+        "end": 159.25
+      },
+      "gaps": [
+        {
+          "word": "second floor"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "n": 14,
+      "quote": "These items are arranged alphabetically by title, and some of you may be spending quite a lot of your time in that section, keeping it all in order.",
+      "segment": {
+        "start": 158.65,
+        "end": 167.97
+      },
+      "gaps": [
+        {
+          "word": "arranged alphabetically"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "n": 15,
+      "quote": "Now, as you know, this library's on the main campus, but we have a smaller one, the Johnson library, that's spelled J-O-H-N-S-O-N, on the secondary campus.",
+      "segment": {
+        "start": 167.45,
+        "end": 178.65
+      },
+      "gaps": [
+        {
+          "word": "Johnson library",
+          "maps_to": "Johnson"
+        },
+        {
+          "word": "J-O-H-N-S-O-N"
+        },
+        {
+          "word": "secondary campus"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "n": 16,
+      "quote": "It's only open in very busy periods, but you might be asked to work there sometimes.",
+      "segment": {
+        "start": 178.11,
+        "end": 184.05
+      },
+      "gaps": [
+        {
+          "word": "busy periods"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "n": 17,
+      "quote": "As another part of your job, you'll also help users with printing, photocopying and scanning.",
+      "segment": {
+        "start": 183.89,
+        "end": 190.37
+      },
+      "gaps": [
+        {
+          "word": "printing"
+        },
+        {
+          "word": "photocopying"
+        },
+        {
+          "word": "scanning",
+          "maps_to": "scanning"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "n": 18,
+      "quote": "We've got printers and copiers available on each floor and we don't normally charge for those services.",
+      "segment": {
+        "start": 189.57,
+        "end": 195.53
+      },
+      "gaps": [
+        {
+          "word": "printers"
+        },
+        {
+          "word": "copiers"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "n": 19,
+      "quote": "Now, a new addition to our services is our twenty-four seven online resources... e-books, articles and research databases.",
+      "segment": {
+        "start": 195.07,
+        "end": 203.69
+      },
+      "gaps": [
+        {
+          "word": "twenty-four seven"
+        },
+        {
+          "word": "online resources"
+        },
+        {
+          "word": "research databases",
+          "maps_to": "research databases"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "n": 20,
+      "quote": "It's a huge help, especially for those students who're having to do late-night study sessions as registered users can access the online resources from their own homes.",
+      "segment": {
+        "start": 203.19,
+        "end": 212.67
+      },
+      "gaps": [
+        {
+          "word": "late-night study sessions"
+        },
+        {
+          "word": "registered users"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "n": 21,
+      "quote": "Now, while we want our library to be a friendly place, we also need to maintain an environment which is good for studying, so you'll need to remind users to keep the noise down, especially in the study areas.",
+      "segment": {
+        "start": 212.09,
+        "end": 226.41
+      },
+      "gaps": [
+        {
+          "word": "friendly place"
+        },
+        {
+          "word": "keep the noise down"
+        },
+        {
+          "word": "study areas"
+        }
+      ],
+      "note": ""
+    }
+  ]
+}
