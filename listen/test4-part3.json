@@ -9,7 +9,7 @@
       "quote": "Hello, and welcome to our university library!",
       "segment": {
         "start": 53.35,
-        "end": 57.71
+        "end": 58.27
       },
       "gaps": [
         {
@@ -23,7 +23,7 @@
           "text": "Hello, and welcome to our university library!",
           "segment": {
             "start": 53.35,
-            "end": 57.71
+            "end": 58.27
           }
         }
       ]
@@ -33,7 +33,7 @@
       "quote": "Today, I'm going to give you a brief introduction into how the library works and your roles here, but as Chief Librarian, my door's always open if you have questions later.",
       "segment": {
         "start": 57.07,
-        "end": 68.29
+        "end": 68.73
       },
       "gaps": [
         {
@@ -54,7 +54,7 @@
           "text": "but as Chief Librarian, my door's always open if you have questions later.",
           "segment": {
             "start": 61.85,
-            "end": 68.29
+            "end": 68.73
           }
         }
       ]
@@ -64,7 +64,7 @@
       "quote": "Now, the library was founded in 1894 and in 1951 acquired its present building here at 95 St. Joseph Street.",
       "segment": {
         "start": 67.53,
-        "end": 77.69
+        "end": 78.13
       },
       "gaps": [
         {
@@ -85,7 +85,7 @@
           "text": "Now, the library was founded in 1894 and in 1951 acquired its present building here at 95 St. Joseph Street.",
           "segment": {
             "start": 67.53,
-            "end": 77.69
+            "end": 78.13
           }
         }
       ]
@@ -95,7 +95,7 @@
       "quote": "Within the library we organise our reference books using the Dewey Decimal system named after an American librarian who invented the system in 1876.",
       "segment": {
         "start": 76.93,
-        "end": 87.03
+        "end": 87.75
       },
       "gaps": [
         {
@@ -112,7 +112,7 @@
           "text": "Within the library we organise our reference books using the Dewey Decimal system named after an American librarian who invented the system in 1876.",
           "segment": {
             "start": 76.93,
-            "end": 87.03
+            "end": 87.75
           }
         }
       ]
@@ -122,7 +122,7 @@
       "quote": "Now, your main responsibility will be to assist our library users in locating the resources they need in our collection.",
       "segment": {
         "start": 86.55,
-        "end": 94.25
+        "end": 94.95
       },
       "gaps": [
         {
@@ -139,7 +139,7 @@
           "text": "Now, your main responsibility will be to assist our library users in locating the resources they need in our collection.",
           "segment": {
             "start": 86.55,
-            "end": 94.25
+            "end": 94.95
           }
         }
       ]
@@ -149,7 +149,7 @@
       "quote": "Other, ongoing tasks include acquiring new materials and digital resources, cataloguing them, and maintaining the organisation of the library's collection.",
       "segment": {
         "start": 93.75,
-        "end": 104.13
+        "end": 105.01
       },
       "gaps": [
         {
@@ -176,7 +176,7 @@
           "text": "and maintaining the organisation of the library's collection.",
           "segment": {
             "start": 99.59,
-            "end": 104.13
+            "end": 105.01
           }
         }
       ]
@@ -186,7 +186,7 @@
       "quote": "One of our critical responsibilities is deciding which materials to include or remove from the collection, and that's done by considering both user demand and budget limitations.",
       "segment": {
         "start": 103.81,
-        "end": 115.79
+        "end": 116.53
       },
       "gaps": [
         {
@@ -204,14 +204,14 @@
           "text": "One of our critical responsibilities is deciding which materials to include or remove from the collection,",
           "segment": {
             "start": 103.81,
-            "end": 111.05
+            "end": 111.25
           }
         },
         {
           "text": "and that's done by considering both user demand and budget limitations.",
           "segment": {
             "start": 110.45,
-            "end": 115.79
+            "end": 116.53
           }
         }
       ]
@@ -251,7 +251,7 @@
           "text": "8.00 a.m. to 10.00 p.m., and at the weekend from 10.00 a.m. to 6.00 p.m.",
           "segment": {
             "start": 120.35,
-            "end": 122.15
+            "end": 129.53
           }
         }
       ]
@@ -261,7 +261,7 @@
       "quote": "But we extend those hours during the periods when exams are underway, so you may have to work later then.",
       "segment": {
         "start": 125.33,
-        "end": 132.51
+        "end": 317.41
       },
       "gaps": [
         {
@@ -283,7 +283,7 @@
           "text": "so you may have to work later then.",
           "segment": {
             "start": 129.19,
-            "end": 132.51
+            "end": 317.41
           }
         }
       ]
@@ -293,7 +293,7 @@
       "quote": "The library's mostly for reference, but we do have a fiction section on the third floor.",
       "segment": {
         "start": 316.21,
-        "end": 322.17
+        "end": 322.63
       },
       "gaps": [
         {
@@ -307,7 +307,7 @@
           "text": "The library's mostly for reference, but we do have a fiction section on the third floor.",
           "segment": {
             "start": 316.21,
-            "end": 322.17
+            "end": 322.63
           }
         }
       ]
@@ -331,7 +331,7 @@
           "text": "It's quite limited, but if a library user requests a particular title which isn't in our collection,",
           "segment": {
             "start": 320.37,
-            "end": 328.15
+            "end": 328.19
           }
         },
         {
@@ -348,7 +348,7 @@
       "quote": "Of course, as you probably already know because you use them for your own studies, we have a large number of journals which the library subscribes to.",
       "segment": {
         "start": 146.33,
-        "end": 155.75
+        "end": 155.99
       },
       "gaps": [
         {
@@ -373,7 +373,7 @@
           "text": "we have a large number of journals which the library subscribes to.",
           "segment": {
             "start": 150.59,
-            "end": 155.17
+            "end": 155.99
           }
         }
       ]
@@ -383,7 +383,7 @@
       "quote": "They're situated on the second floor, away from the reference books.",
       "segment": {
         "start": 154.79,
-        "end": 159.25
+        "end": 159.85
       },
       "gaps": [
         {
@@ -397,7 +397,7 @@
           "text": "They're situated on the second floor, away from the reference books.",
           "segment": {
             "start": 154.79,
-            "end": 159.25
+            "end": 159.85
           }
         }
       ]
@@ -407,7 +407,7 @@
       "quote": "These items are arranged alphabetically by title, and some of you may be spending quite a lot of your time in that section, keeping it all in order.",
       "segment": {
         "start": 158.65,
-        "end": 167.97
+        "end": 168.65
       },
       "gaps": [
         {
@@ -428,7 +428,7 @@
           "text": "and some of you may be spending quite a lot of your time in that section, keeping it all in order.",
           "segment": {
             "start": 161.63,
-            "end": 167.77
+            "end": 168.65
           }
         }
       ]
@@ -438,7 +438,7 @@
       "quote": "Now, as you know, this library's on the main campus, but we have a smaller one, the Johnson library, that's spelled J-O-H-N-S-O-N, on the secondary campus.",
       "segment": {
         "start": 167.45,
-        "end": 178.65
+        "end": 179.31
       },
       "gaps": [
         {
@@ -466,7 +466,7 @@
           "text": "but we have a smaller one, the Johnson library, that's spelled J-O-H-N-S-O-N, on the secondary campus.",
           "segment": {
             "start": 170.17,
-            "end": 178.19
+            "end": 179.31
           }
         }
       ]
@@ -476,7 +476,7 @@
       "quote": "It's only open in very busy periods, but you might be asked to work there sometimes.",
       "segment": {
         "start": 178.11,
-        "end": 184.05
+        "end": 185.09
       },
       "gaps": [
         {
@@ -497,7 +497,7 @@
           "text": "but you might be asked to work there sometimes.",
           "segment": {
             "start": 180.75,
-            "end": 184.05
+            "end": 185.09
           }
         }
       ]
@@ -507,7 +507,7 @@
       "quote": "As another part of your job, you'll also help users with printing, photocopying and scanning.",
       "segment": {
         "start": 183.89,
-        "end": 190.37
+        "end": 190.77
       },
       "gaps": [
         {
@@ -528,7 +528,7 @@
           "text": "As another part of your job, you'll also help users with printing, photocopying and scanning.",
           "segment": {
             "start": 183.89,
-            "end": 190.37
+            "end": 190.77
           }
         }
       ]
@@ -538,7 +538,7 @@
       "quote": "We've got printers and copiers available on each floor and we don't normally charge for those services.",
       "segment": {
         "start": 189.57,
-        "end": 195.53
+        "end": 196.27
       },
       "gaps": [
         {
@@ -555,7 +555,7 @@
           "text": "We've got printers and copiers available on each floor and we don't normally charge for those services.",
           "segment": {
             "start": 189.57,
-            "end": 195.53
+            "end": 196.27
           }
         }
       ]
@@ -565,7 +565,7 @@
       "quote": "Now, a new addition to our services is our twenty-four seven online resources... e-books, articles and research databases.",
       "segment": {
         "start": 195.07,
-        "end": 203.69
+        "end": 204.39
       },
       "gaps": [
         {
@@ -586,7 +586,7 @@
           "text": "Now, a new addition to our services is our twenty-four seven online resources... e-books, articles and research databases.",
           "segment": {
             "start": 195.07,
-            "end": 203.69
+            "end": 204.39
           }
         }
       ]
@@ -596,7 +596,7 @@
       "quote": "It's a huge help, especially for those students who're having to do late-night study sessions as registered users can access the online resources from their own homes.",
       "segment": {
         "start": 203.19,
-        "end": 212.67
+        "end": 213.29
       },
       "gaps": [
         {
@@ -613,7 +613,7 @@
           "text": "It's a huge help, especially for those students who're having to do late-night study sessions as registered users can access the online resources from their own homes.",
           "segment": {
             "start": 203.19,
-            "end": 212.67
+            "end": 213.29
           }
         }
       ]
@@ -623,7 +623,7 @@
       "quote": "Now, while we want our library to be a friendly place, we also need to maintain an environment which is good for studying, so you'll need to remind users to keep the noise down, especially in the study areas.",
       "segment": {
         "start": 212.09,
-        "end": 226.41
+        "end": 227.91
       },
       "gaps": [
         {
@@ -657,7 +657,7 @@
           "text": "so you'll need to remind users to keep the noise down, especially in the study areas.",
           "segment": {
             "start": 219.27,
-            "end": 225.91
+            "end": 227.91
           }
         }
       ]
