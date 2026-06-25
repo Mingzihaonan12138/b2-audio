@@ -1,21 +1,14 @@
 {
   "id": "test4-part4",
   "title": "LC General B2 - Test 4 - Part 4",
-  "type": "questions",
+  "type": "guided",
   "audio": "https://cdn.jsdelivr.net/gh/Mingzihaonan12138/b2-audio@main/listen/part4.mp3",
   "fullTranscript": "M: Welcome to Law Today. I'm Neil Richards. This week, I'm focusing on eyewitness testimony. To explore this subject, I have law professor, Diana Wilding joining me. Now, why should we not believe eyewitness accounts of crimes or accidents? After all, the eyewitness was there.\nF: I'm afraid there are several reasons. Let's start with memory reconstruction... the key point is that a memory is not the same as, say, a video of an event. All memory is reconstructed at the time we're asked to recall an event, and it may not be reconstructed correctly, even though the person's trying not to exaggerate their part in events or invent details. And it can be influenced by external factors. For example, the way a question's phrased can shape a person's recollection.\nM: I guess the key research here is Loftus and Palmer. In that study eyewitnesses gave different accounts according to the questions put to them...\nF: Yes, their participants were shown a video of a minor car accident and then asked one of several versions of the same basic question, How fast were the cars going when they hit each other?\nM: ... or when they smashed into each other! They found that replacing that one neutral, more objective verb 'hit' with a strong verb 'smashed' increased the witnesses' estimates of the speed the cars were traveling at by about 20%, didn't they? That could result in a very different judgement in court...\nF: ...But a question using smashed couldn't be asked in court. But it could be used, without any bad intention, by a police officer during an initial conversation for example, and then it becomes fixed in the memory of the witness.\nM: OK, so that's an external factor. What about internal factors? I remember several studies which showed that, when presented with an image of a criminal holding a weapon, people were less likely to accurately remember height, age, ethnic group and so on because they focused on the weapon.\nF: But, actually, that doesn't seem to be the case in real-world situations. If anything, the presence of weapons in actual crimes make witnesses more conscious of details like age and race.\nM: While we're talking about age and race, is there any evidence that they influence the reliability of eyewitness accounts?\nF: Well, some may argue that accurately identifying individuals from racial backgrounds other than your own can be a bit tricky, but personally, I doubt it. Indeed, studies indicate that living in a diverse community can significantly enhance one's ability to recognise and remember information about individuals from various racial backgrounds.\nM: What about the age of the witness? Can't that be a factor?\nF: Not on its own. For example, an elderly person with reduced eyesight, may still be very confident that their visual memory's accurate. I see it in court all the time. And people on juries place great weight on confidence, they equate it with accuracy.\nM: Surely, relying on how confident someone sounds is bound to lead to mistakes in legal cases. Although I can understand why witnesses who sound more confident seem more believable.\nF: Yes, absolutely! Nonetheless, confidence alone doesn't guarantee the reliability of a witness's testimony.\nM: Now, finally, I'd like to talk about what's known as 'inattentional blindness'.\nF: Yes, actually at my university we ask all first-year students to watch a video made by two researchers who looked into this phenomenon, Simons and Chabris. It's of people playing basketball, and the viewer has to count the number of passes of the ball made by one of the teams. Then, at the end, we ask how many students saw the gorilla.\nM: Sorry? The gorilla?\nF: Yes! During the basketball game, someone in a gorilla suit comes and stands on the court. The first time I watched the video I completely missed the gorilla! On average, just under half don't notice it, even though it's so unusual. The point is... if you're paying very close attention to something, you can miss other things which come into view, however unusual they are.",
   "items": [
     {
       "n": 25,
-      "question": "What problem with eyewitness evidence does Diana point out?",
-      "options": [
-        "the effect of particular words used to trigger recall",
-        "the tendency of witnesses to add details whenever they recall an event",
-        "the fact that witnesses sometimes want to be the centre of attention"
-      ],
-      "answer": 0,
       "quote": "And it can be influenced by external factors. For example, the way a question's phrased can shape a person's recollection.",
-      "zh": "而且它会受到外部因素的影响。例如，问题的措辞方式会影响一个人的回忆。",
+      "zh": "而且它可能受到外部因素的影响。例如，问题的措辞方式可以影响一个人的回忆。",
       "segment": {
         "start": 123.84,
         "end": 134.24
@@ -29,36 +22,32 @@
           }
         },
         {
-          "text": "For example, the way a question's phrased",
+          "text": "For example, the way a question's phrased can shape a person's recollection.",
           "segment": {
             "start": 128.64,
-            "end": 132.7
-          }
-        },
-        {
-          "text": "can shape a person's recollection.",
-          "segment": {
-            "start": 131.3,
             "end": 134.24
           }
         }
       ],
-      "note": "迪安娜指出，外部因素，特别是“问题的措辞方式”，会影响目击者的回忆，这与选项A中“特定词语对回忆的影响”相符。"
+      "signalType": "举例说明",
+      "signal": "For example",
+      "cue": "注意女方在解释记忆重建时，有没有提到具体的影响因素，尤其是外部因素。",
+      "explain": "女方在提到记忆可能受到外部因素影响后，紧接着用 'For example' 举例说明了 '问题的措辞方式' 如何影响回忆。听到 'For example' 这样的信号词时，要特别留意其后跟的具体例子，这往往是理解抽象概念的关键。",
+      "_question": "What problem with eyewitness evidence does Diana point out?",
+      "_options": [
+        "the effect of particular words used to trigger recall",
+        "the tendency of witnesses to add details whenever they recall an event",
+        "the fact that witnesses sometimes want to be the centre of attention"
+      ],
+      "_answer": 0
     },
     {
       "n": 26,
-      "question": "According to Diana, using more subjective language when questioning eyewitnesses",
-      "options": [
-        "only makes a small difference to their evidence.",
-        "would not be allowed in court.",
-        "might be done deliberately by police officers."
-      ],
-      "answer": 1,
-      "quote": "But a question using smashed couldn't be asked in court.",
-      "zh": "但是，在法庭上不能使用带有‘smashed’（撞毁）这样的词语来提问。",
+      "quote": "But a question using smashed couldn't be asked in court. But it could be used, without any bad intention, by a police officer during an initial conversation for example, and then it becomes fixed in the memory of the witness.",
+      "zh": "但是，在法庭上不能问使用“撞毁”这个词的问题。不过，它可能会在没有恶意的情况下，被警官在初次谈话中使用，然后就固定在证人的记忆中了。",
       "segment": {
-        "start": 177.16,
-        "end": 182.62
+        "start": 175.72,
+        "end": 192.86
       },
       "units": [
         {
@@ -67,111 +56,120 @@
             "start": 177.16,
             "end": 182.62
           }
+        },
+        {
+          "text": "But it could be used, without any bad intention, by a police officer during an initial conversation for example,",
+          "segment": {
+            "start": 181.86,
+            "end": 189.18
+          }
+        },
+        {
+          "text": "and then it becomes fixed in the memory of the witness.",
+          "segment": {
+            "start": 188.68,
+            "end": 193.1
+          }
         }
       ],
-      "note": "迪安娜明确指出，像“smashed”这样带有主观色彩的词语“不能在法庭上使用”，这直接对应了选项B。"
+      "signalType": "转折",
+      "signal": "But",
+      "cue": "注意女方对男方关于“smashed”这个词的讨论有什么补充或转折，尤其是在法庭上的应用。",
+      "explain": "男方提到“smashed”可能导致法庭上不同的判断，女方立刻用 'But' 进行了转折，指出这种主观性强的词语 'couldn't be asked in court'。听到 'But' 这样的转折词时，要警惕说话者可能要提出一个相反的观点或限制条件，这往往是考点所在。",
+      "_question": "According to Diana, using more subjective language when questioning eyewitnesses",
+      "_options": [
+        "only makes a small difference to their evidence.",
+        "would not be allowed in court.",
+        "might be done deliberately by police officers."
+      ],
+      "_answer": 1
     },
     {
       "n": 27,
-      "question": "Diana objects to Neil's point about weapons reducing the recall of detail because",
-      "options": [
-        "not enough studies have been done to prove the point.",
-        "the studies which showed an effect were poorly conducted.",
-        "the effect was only observed under experimental conditions."
-      ],
-      "answer": 2,
       "quote": "But, actually, that doesn't seem to be the case in real-world situations. If anything, the presence of weapons in actual crimes make witnesses more conscious of details like age and race.",
-      "zh": "但实际上，在现实世界中似乎并非如此。如果说有什么影响的话，那就是在实际犯罪中武器的存在反而会让目击者更关注年龄和种族等细节。",
+      "zh": "但是，实际上，在现实世界中似乎并非如此。如果说有什么不同的话，那就是在实际犯罪中武器的存在反而让目击者更关注年龄和种族等细节。",
       "segment": {
         "start": 211.96,
         "end": 226.5
       },
       "units": [
         {
-          "text": "But, actually, that doesn't seem to be the case",
+          "text": "But, actually, that doesn't seem to be the case in real-world situations.",
           "segment": {
             "start": 213.34,
-            "end": 217.58
-          }
-        },
-        {
-          "text": "in real-world situations.",
-          "segment": {
-            "start": 216.18,
             "end": 218.86
           }
         },
         {
-          "text": "If anything, the presence of weapons in actual crimes",
+          "text": "If anything, the presence of weapons in actual crimes make witnesses more conscious of details like age and race.",
           "segment": {
             "start": 218.2,
-            "end": 222.76
-          }
-        },
-        {
-          "text": "make witnesses more conscious of details like age and race.",
-          "segment": {
-            "start": 221.36,
-            "end": 226.5
+            "end": 226.24
           }
         }
       ],
-      "note": "迪安娜反驳了尼尔关于武器会降低细节回忆的观点，她指出这种现象“在现实世界中似乎并非如此”，暗示尼尔提到的研究可能是在实验条件下观察到的，与真实情况不符，因此选项C是正确的。"
+      "signalType": "反对/转折",
+      "signal": "But, actually",
+      "cue": "注意女方对男方关于武器影响记忆的观点是同意还是反对，以及她给出的理由。",
+      "explain": "男方提出了一个研究发现，女方立刻用 'But, actually' 表达了不同意见，并指出这种现象 'doesn't seem to be the case in real-world situations'。这暗示了男方提到的研究可能是在非现实情境下进行的。听到 'But, actually' 这样的表达时，要警觉说话者即将提出一个与之前观点相反或修正的看法，这通常是理解对话核心分歧的关键。",
+      "_question": "Diana objects to Neil's point about weapons reducing the recall of detail because",
+      "_options": [
+        "not enough studies have been done to prove the point.",
+        "the studies which showed an effect were poorly conducted.",
+        "the effect was only observed under experimental conditions."
+      ],
+      "_answer": 2
     },
     {
       "n": 28,
-      "question": "What does Diana say about race and eyewitness evidence?",
-      "options": [
+      "quote": "Well, some may argue that accurately identifying individuals from racial backgrounds other than your own can be a bit tricky, but personally, I doubt it. Indeed, studies indicate that living in a diverse community can significantly enhance one's ability to recognise and remember information about individuals from various racial backgrounds.",
+      "zh": "嗯，有些人可能会争辩说，准确识别来自不同种族背景的人可能有点棘手，但我个人对此表示怀疑。事实上，研究表明，生活在多元化社区中可以显著提高一个人识别和记忆来自不同种族背景的个体信息的能力。",
+      "segment": {
+        "start": 513.99,
+        "end": 538.51
+      },
+      "units": [
+        {
+          "text": "Well, some may argue that accurately identifying individuals from racial backgrounds other than your own can be a bit tricky,",
+          "segment": {
+            "start": 513.99,
+            "end": 524.09
+          }
+        },
+        {
+          "text": "but personally, I doubt it.",
+          "segment": {
+            "start": 523.17,
+            "end": 526.41
+          }
+        },
+        {
+          "text": "Indeed, studies indicate that living in a diverse community can significantly enhance one's ability to recognise and remember information about individuals from various racial backgrounds.",
+          "segment": {
+            "start": 525.87,
+            "end": 537.95
+          }
+        }
+      ],
+      "signalType": "反对/强调",
+      "signal": "but personally, I doubt it. Indeed,",
+      "cue": "注意女方对跨种族识别的看法，她是同意普遍观点还是有自己的不同意见和证据？",
+      "explain": "女方首先承认了 'some may argue' 跨种族识别的难度，但紧接着用 'but personally, I doubt it' 表明了她的不同意见，并用 'Indeed, studies indicate' 提供了支持她观点的证据。听到 'but personally, I doubt it' 这样的表达时，要警觉说话者即将提出自己的独特见解，而 'Indeed' 则预示着她会提供进一步的论据来支持这个见解，这通常是关键信息。",
+      "_question": "What does Diana say about race and eyewitness evidence?",
+      "_options": [
         "There's little evidence that one race is better than another at recalling events",
         "Identifying someone from a different race is affected by the witness's prejudices.",
         "In a multicultural society, race isn't a barrier to accurate identification."
       ],
-      "answer": 2,
-      "quote": "Indeed, studies indicate that living in a diverse community can significantly enhance one's ability to recognise and remember information about individuals from various racial backgrounds.",
-      "zh": "事实上，研究表明，生活在多元化社区中可以显著提高一个人识别和记住来自不同种族背景的个体信息的能力。",
-      "segment": {
-        "start": 242.1,
-        "end": 256.26
-      },
-      "units": [
-        {
-          "text": "Indeed, studies indicate that living in a diverse community",
-          "segment": {
-            "start": 242.64,
-            "end": 248.78
-          }
-        },
-        {
-          "text": "can significantly enhance one's ability to recognise and remember information",
-          "segment": {
-            "start": 247.38,
-            "end": 253.58
-          }
-        },
-        {
-          "text": "about individuals from various racial backgrounds.",
-          "segment": {
-            "start": 252.18,
-            "end": 256.26
-          }
-        }
-      ],
-      "note": "迪安娜提到，研究表明生活在多元化社区中能“显著提高”识别和记住不同种族背景个体信息的能力，这表明在多元文化社会中，种族并非准确识别的障碍，与选项C相符。"
+      "_answer": 2
     },
     {
       "n": 29,
-      "question": "What do the speakers conclude about the relationship between confidence and accuracy?",
-      "options": [
-        "Confident older witnesses may provide more accurate statements",
-        "A person confident in their memory is usually believed in court.",
-        "Confidence comes from having a good memory in general."
-      ],
-      "answer": 1,
-      "quote": "And people on juries place great weight on confidence, they equate it with accuracy. Although I can understand why witnesses who sound more confident seem more believable.",
-      "zh": "陪审团成员非常看重自信，他们将其等同于准确性。尽管我能理解为什么听起来更自信的证人似乎更可信。",
+      "quote": "And people on juries place great weight on confidence, they equate it with accuracy.",
+      "zh": "陪审团成员非常看重自信，他们把自信等同于准确性。",
       "segment": {
-        "start": 270.1,
-        "end": 282.86
+        "start": 271.66,
+        "end": 279.08
       },
       "units": [
         {
@@ -187,63 +185,62 @@
             "start": 276.4,
             "end": 279.08
           }
-        },
-        {
-          "text": "Although I can understand why witnesses who sound more confident",
-          "segment": {
-            "start": 278.92,
-            "end": 280.88
-          }
-        },
-        {
-          "text": "seem more believable.",
-          "segment": {
-            "start": 279.48,
-            "end": 281.24
-          }
         }
       ],
-      "note": "迪安娜指出陪审团“非常看重自信，他们将其等同于准确性”，尼尔也补充说“听起来更自信的证人似乎更可信”，这都表明在法庭上，对自身记忆有信心的人通常会被相信，与选项B一致。"
+      "signalType": "事实陈述",
+      "signal": "place great weight on confidence, they equate it with accuracy",
+      "cue": "注意女方在讨论老年人记忆时，有没有提到陪审团对证人自信程度的看法。",
+      "explain": "女方在举例说明老年人可能自信但记忆不准确后，直接指出 'And people on juries place great weight on confidence, they equate it with accuracy.' 这句话直接揭示了陪审团在法庭上对自信的看法，是理解自信与准确性关系的关键。听到这种直接陈述事实的句子时，要特别留意其内容，这往往是对话中的重要结论或观点。",
+      "_question": "What do the speakers conclude about the relationship between confidence and accuracy?",
+      "_options": [
+        "Confident older witnesses may provide more accurate statements",
+        "A person confident in their memory is usually believed in court.",
+        "Confidence comes from having a good memory in general."
+      ],
+      "_answer": 1
     },
     {
       "n": 30,
-      "question": "The implication of the gorilla story is that",
-      "options": [
-        "a person who witnesses a crime may miss key details.",
-        "eyewitnesses focus on the most unusual part of an event.",
-        "you can only believe about 50% of what people say."
-      ],
-      "answer": 0,
       "quote": "The point is... if you're paying very close attention to something, you can miss other things which come into view, however unusual they are.",
-      "zh": "关键是……如果你非常专注于某件事，你可能会错过视野中出现的其他事物，无论它们多么不寻常。",
+      "zh": "关键是……如果你非常专注于某件事，你可能会错过其他进入视野的东西，无论它们多么不寻常。",
       "segment": {
         "start": 345.46,
         "end": 356.7
       },
       "units": [
         {
-          "text": "The point is... if you're paying very close attention to something,",
+          "text": "The point is...",
           "segment": {
             "start": 347.1,
+            "end": 349.26
+          }
+        },
+        {
+          "text": "if you're paying very close attention to something,",
+          "segment": {
+            "start": 347.86,
             "end": 351.9
           }
         },
         {
-          "text": "you can miss other things which come into view,",
+          "text": "you can miss other things which come into view, however unusual they are.",
           "segment": {
             "start": 350.8,
-            "end": 354.88
-          }
-        },
-        {
-          "text": "however unusual they are.",
-          "segment": {
-            "start": 353.8,
-            "end": 356.7
+            "end": 356.42
           }
         }
       ],
-      "note": "迪安娜通过大猩猩的故事总结道，如果你“非常专注于某件事”，就可能“错过视野中出现的其他事物”，这暗示了目击者在专注于犯罪的某个方面时，可能会遗漏其他关键细节，与选项A的含义相符。"
+      "signalType": "结论/重点",
+      "signal": "The point is...",
+      "cue": "注意女方在讲完大猩猩实验后，有没有总结这个实验的“重点”或“启示”。",
+      "explain": "女方在讲述完大猩猩实验后，用 'The point is...' 明确地引出了这个实验的结论或核心启示。听到 'The point is...' 这样的短语时，要高度警觉，因为这通常是说话者要总结或强调其核心观点，是理解整个故事或论证目的的关键。",
+      "_question": "The implication of the gorilla story is that",
+      "_options": [
+        "a person who witnesses a crime may miss key details.",
+        "eyewitnesses focus on the most unusual part of an event.",
+        "you can only believe about 50% of what people say."
+      ],
+      "_answer": 0
     }
   ]
 }
