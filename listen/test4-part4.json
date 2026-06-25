@@ -8,41 +8,33 @@
     {
       "source": "generated",
       "examNo": null,
-      "question": "What is the first main reason Diana Wilding gives for not believing eyewitness accounts?",
+      "question": "What is the fundamental difference between memory and a video, according to Diana?",
       "keywords": [
-        "first main reason",
-        "Diana Wilding",
-        "not believing",
-        "eyewitness accounts"
+        "fundamental difference",
+        "memory",
+        "video"
       ],
-      "quote": "Let's start with memory reconstruction... the key point is that a memory is not the same as, say, a video of an event. All memory is reconstructed at the time we're asked to recall an event, and it may not be reconstructed correctly, even though the person's trying not to exaggerate their part in events or invent details.",
-      "answerSpan": "memory reconstruction",
-      "zh": "让我们从记忆重构开始……关键是记忆不像事件的视频。所有记忆在我们被要求回忆事件时都会被重构，而且可能无法正确重构，即使当事人努力不夸大他们在事件中的角色或编造细节。",
-      "refAnswer": "黛安娜提出的不相信目击者证词的第一个主要原因是记忆重构。",
+      "quote": "the key point is that a memory is not the same as, say, a video of an event. All memory is reconstructed at the time we're asked to recall an event, and it may not be reconstructed correctly, even though the person's trying not to exaggerate their part in events or invent details.",
+      "answerSpan": "a memory is not the same as, say, a video of an event. All memory is reconstructed at the time we're asked to recall an event, and it may not be reconstructed correctly",
+      "zh": "关键是，记忆不像事件的视频。所有记忆在我们被要求回忆事件时都会被重构，而且可能无法正确重构，即使那个人努力不夸大他们在事件中的作用或编造细节。",
+      "refAnswer": "记忆是重构的，不像视频那样是事件的精确记录。",
       "examAnswer": "",
       "segment": {
-        "start": 102.54,
+        "start": 107.94,
         "end": 126.9
       },
       "units": [
         {
-          "text": "Let's start with memory reconstruction... the key point is",
+          "text": "the key point is that a memory is not the same as, say,",
           "segment": {
-            "start": 104.14,
-            "end": 109.24
+            "start": 107.94,
+            "end": 111.68
           }
         },
         {
-          "text": "that a memory is not the same as, say, a video",
+          "text": "a video of an event. All memory is reconstructed at the time we're asked to recall an event,",
           "segment": {
-            "start": 108.34,
-            "end": 112.72
-          }
-        },
-        {
-          "text": "of an event. All memory is reconstructed at the time we're asked to recall an event,",
-          "segment": {
-            "start": 111.82,
+            "start": 110.78,
             "end": 117.68
           }
         },
@@ -64,87 +56,28 @@
       "n": 1
     },
     {
-      "source": "generated",
-      "examNo": null,
-      "question": "How does Diana describe the fundamental nature of memory compared to a video recording?",
-      "keywords": [
-        "Diana",
-        "fundamental nature",
-        "memory",
-        "video recording"
-      ],
-      "quote": "the key point is that a memory is not the same as, say, a video of an event. All memory is reconstructed at the time we're asked to recall an event, and it may not be reconstructed correctly, even though the person's trying not to exaggerate their part in events or invent details.",
-      "answerSpan": "a memory is not the same as, say, a video of an event. All memory is reconstructed at the time we're asked to recall an event, and it may not be reconstructed correctly",
-      "zh": "关键是记忆不像事件的视频。所有记忆在我们被要求回忆事件时都会被重构，而且可能无法正确重构，即使当事人努力不夸大他们在事件中的角色或编造细节。",
-      "refAnswer": "黛安娜指出，记忆不是事件的视频记录，而是在回忆时被重构的，可能不准确。",
-      "examAnswer": "",
-      "segment": {
-        "start": 107.64,
-        "end": 126.9
-      },
-      "units": [
-        {
-          "text": "the key point is that a memory is not the same as, say,",
-          "segment": {
-            "start": 107.64,
-            "end": 112.44
-          }
-        },
-        {
-          "text": "a video of an event. All memory is reconstructed",
-          "segment": {
-            "start": 111.54,
-            "end": 115.02
-          }
-        },
-        {
-          "text": "at the time we're asked to recall an event,",
-          "segment": {
-            "start": 114.12,
-            "end": 117.68
-          }
-        },
-        {
-          "text": "and it may not be reconstructed correctly,",
-          "segment": {
-            "start": 116.78,
-            "end": 120.24
-          }
-        },
-        {
-          "text": "even though the person's trying not to exaggerate their part in events or invent details.",
-          "segment": {
-            "start": 119.34,
-            "end": 126.9
-          }
-        }
-      ],
-      "n": 2
-    },
-    {
       "source": "exam",
       "examNo": 25,
-      "question": "What problem with eyewitness evidence does Diana point out regarding how questions are phrased?",
+      "question": "What problem with eyewitness evidence does Diana highlight regarding the phrasing of questions?",
       "keywords": [
         "problem",
         "eyewitness evidence",
-        "Diana",
-        "questions phrased"
+        "Diana highlight"
       ],
       "quote": "And it can be influenced by external factors. For example, the way a question's phrased can shape a person's recollection.",
-      "answerSpan": "the way a question's phrased can shape a person's recollection",
+      "answerSpan": "the way a question's phrased can shape a person's recollection.",
       "zh": "而且它会受到外部因素的影响。例如，问题的措辞方式可以影响一个人的回忆。",
-      "refAnswer": "黛安娜指出，问题的措辞方式会影响目击者的回忆。",
+      "refAnswer": "问题的措辞方式会影响证人的回忆。",
       "examAnswer": "the effect of particular words used to trigger recall",
       "segment": {
-        "start": 123.84,
+        "start": 125.6,
         "end": 135.24
       },
       "units": [
         {
           "text": "And it can be influenced by external factors. For example,",
           "segment": {
-            "start": 125.3,
+            "start": 125.6,
             "end": 130.6
           }
         },
@@ -156,90 +89,39 @@
           }
         }
       ],
-      "n": 3
-    },
-    {
-      "source": "generated",
-      "examNo": null,
-      "question": "What specific finding did the Loftus and Palmer study reveal about how language affects eyewitness accounts?",
-      "keywords": [
-        "Loftus and Palmer study",
-        "language",
-        "eyewitness accounts"
-      ],
-      "quote": "They found that replacing that one neutral, more objective verb 'hit' with a strong verb 'smashed' increased the witnesses' estimates of the speed the cars were traveling at by about 20%, didn't they?",
-      "answerSpan": "replacing that one neutral, more objective verb 'hit' with a strong verb 'smashed' increased the witnesses' estimates of the speed the cars were traveling at by about 20%",
-      "zh": "他们发现，用一个强烈的动词“smashed”（撞毁）替换那个中性、更客观的动词“hit”（撞击），会使目击者对汽车行驶速度的估计增加约20%，不是吗？",
-      "refAnswer": "洛夫特斯和帕尔默的研究表明，使用更强烈的动词会显著提高目击者对事件速度的估计。",
-      "examAnswer": "",
-      "segment": {
-        "start": 156.12,
-        "end": 174.8
-      },
-      "units": [
-        {
-          "text": "They found that replacing that one neutral,",
-          "segment": {
-            "start": 157.78,
-            "end": 161.44
-          }
-        },
-        {
-          "text": "more objective verb 'hit' with a strong verb 'smashed' increased the witnesses' estimates",
-          "segment": {
-            "start": 160.54,
-            "end": 168.02
-          }
-        },
-        {
-          "text": "of the speed the cars were traveling at by about 20%, didn't they?",
-          "segment": {
-            "start": 167.12,
-            "end": 174.8
-          }
-        }
-      ],
-      "n": 4
+      "n": 2
     },
     {
       "source": "exam",
       "examNo": 26,
-      "question": "What does Diana say about using more subjective language when questioning eyewitnesses in court?",
+      "question": "According to Diana, what is the restriction on using subjective language, like the word 'smashed', when questioning eyewitnesses in court?",
       "keywords": [
         "Diana",
+        "restriction",
         "subjective language",
-        "questioning",
-        "eyewitnesses",
         "court"
       ],
       "quote": "But a question using smashed couldn't be asked in court. But it could be used, without any bad intention, by a police officer during an initial conversation for example, and then it becomes fixed in the memory of the witness.",
-      "answerSpan": "a question using smashed couldn't be asked in court",
-      "zh": "但是，在法庭上不能问使用“smashed”的问题。但它可能会在没有恶意的情况下，例如在初步谈话中被警官使用，然后它就会固定在证人的记忆中。",
-      "refAnswer": "黛安娜说，在法庭上不允许使用带有主观色彩的语言来提问目击者。",
+      "answerSpan": "a question using smashed couldn't be asked in court.",
+      "zh": "但使用“smashed”的问题不能在法庭上提出。但它可以在没有恶意的情况下，例如在初步谈话中被警官使用，然后它就会固定在证人的记忆中。",
+      "refAnswer": "像“smashed”这样的主观词语在法庭上是不允许使用的。",
       "examAnswer": "would not be allowed in court.",
       "segment": {
-        "start": 175.72,
-        "end": 193.86
+        "start": 177.46,
+        "end": 194.1
       },
       "units": [
         {
-          "text": "But a question using smashed couldn't be asked in court.",
+          "text": "But a question using smashed couldn't be asked in court. But it could be used,",
           "segment": {
-            "start": 177.16,
-            "end": 182.76
+            "start": 177.46,
+            "end": 184.28
           }
         },
         {
-          "text": "But it could be used, without any bad intention,",
+          "text": "without any bad intention, by a police officer during an initial conversation for example,",
           "segment": {
-            "start": 181.86,
-            "end": 185.42
-          }
-        },
-        {
-          "text": "by a police officer during an initial conversation for example,",
-          "segment": {
-            "start": 184.52,
+            "start": 183.38,
             "end": 189.58
           }
         },
@@ -247,37 +129,35 @@
           "text": "and then it becomes fixed in the memory of the witness.",
           "segment": {
             "start": 188.68,
-            "end": 193.86
+            "end": 194.1
           }
         }
       ],
-      "n": 5
+      "n": 3
     },
     {
       "source": "generated",
       "examNo": null,
-      "question": "According to Diana, what is the danger of a police officer using subjective language during an initial conversation with a witness?",
+      "question": "How can a police officer's use of language, even without bad intention, affect a witness's memory?",
       "keywords": [
-        "Diana",
-        "danger",
-        "police officer",
-        "subjective language",
-        "initial conversation"
+        "police officer's use of language",
+        "affect",
+        "witness's memory"
       ],
       "quote": "But it could be used, without any bad intention, by a police officer during an initial conversation for example, and then it becomes fixed in the memory of the witness.",
-      "answerSpan": "it becomes fixed in the memory of the witness",
-      "zh": "但它可能会在没有恶意的情况下，例如在初步谈话中被警官使用，然后它就会固定在证人的记忆中。",
-      "refAnswer": "黛安娜认为，警官在初步谈话中使用主观语言，即使没有恶意，也可能使这些信息固定在目击者的记忆中。",
+      "answerSpan": "it could be used, without any bad intention, by a police officer during an initial conversation for example, and then it becomes fixed in the memory of the witness.",
+      "zh": "但它可以在没有恶意的情况下，例如在初步谈话中被警官使用，然后它就会固定在证人的记忆中。",
+      "refAnswer": "警官在初步谈话中无意间使用的主观词语，可能会固定在证人的记忆中。",
       "examAnswer": "",
       "segment": {
-        "start": 180.58,
+        "start": 182.16,
         "end": 194.1
       },
       "units": [
         {
           "text": "But it could be used, without any bad intention,",
           "segment": {
-            "start": 181.86,
+            "start": 182.16,
             "end": 185.42
           }
         },
@@ -296,39 +176,31 @@
           }
         }
       ],
-      "n": 6
+      "n": 4
     },
     {
       "source": "generated",
       "examNo": null,
-      "question": "How does Diana's view on the effect of weapons on witness recall differ from Neil's initial understanding?",
+      "question": "What is Neil's initial belief about how the presence of a weapon affects a witness's memory?",
       "keywords": [
-        "Diana's view",
-        "effect of weapons",
-        "witness recall",
-        "differ from Neil's"
+        "Neil's initial belief",
+        "weapon affects",
+        "witness's memory"
       ],
-      "quote": "I remember several studies which showed that, when presented with an image of a criminal holding a weapon, people were less likely to accurately remember height, age, ethnic group and so on because they focused on the weapon. F: But, actually, that doesn't seem to be the case in real-world situations. If anything, the presence of weapons in actual crimes make witnesses more conscious of details like age and race.",
-      "answerSpan": "Neil: people were less likely to accurately remember height, age, ethnic group and so on because they focused on the weapon. F: But, actually, that doesn't seem to be the case in real-world situations. If anything, the presence of weapons in actual crimes make witnesses more conscious of details like age and race.",
-      "zh": "我记得有几项研究表明，当人们看到罪犯持有武器的图像时，他们不太可能准确记住身高、年龄、族裔群体等信息，因为他们专注于武器。F：但实际上，在现实世界中似乎并非如此。如果说有什么不同的话，那就是在实际犯罪中武器的存在反而会让目击者更注意年龄和种族等细节。",
-      "refAnswer": "尼尔认为武器会减少对其他细节的记忆，而黛安娜则认为在真实犯罪中，武器的存在反而会使目击者更关注细节。",
+      "quote": "I remember several studies which showed that, when presented with an image of a criminal holding a weapon, people were less likely to accurately remember height, age, ethnic group and so on because they focused on the weapon.",
+      "answerSpan": "when presented with an image of a criminal holding a weapon, people were less likely to accurately remember height, age, ethnic group and so on because they focused on the weapon.",
+      "zh": "我记得有几项研究表明，当人们看到罪犯持有武器的图像时，他们不太可能准确记住身高、年龄、族裔群体等，因为他们把注意力集中在武器上。",
+      "refAnswer": "尼尔认为，当有武器出现时，人们会专注于武器，从而不太可能准确记住其他细节。",
       "examAnswer": "",
       "segment": {
-        "start": 196.02,
-        "end": 226.98
+        "start": 198.36,
+        "end": 214.88
       },
       "units": [
         {
-          "text": "I remember several studies which showed that,",
+          "text": "I remember several studies which showed that, when presented with an image of a criminal holding a weapon,",
           "segment": {
-            "start": 198.06,
-            "end": 201.7
-          }
-        },
-        {
-          "text": "when presented with an image of a criminal holding a weapon,",
-          "segment": {
-            "start": 200.8,
+            "start": 198.36,
             "end": 205.42
           }
         },
@@ -340,38 +212,75 @@
           }
         },
         {
-          "text": "ethnic group and so on because they focused on the weapon. F:",
+          "text": "ethnic group and so on because they focused on the weapon.",
           "segment": {
             "start": 208.42,
-            "end": 214.24
+            "end": 214.88
           }
-        },
+        }
+      ],
+      "n": 5
+    },
+    {
+      "source": "exam",
+      "examNo": 27,
+      "question": "Why does Diana disagree with Neil's assertion that weapons reduce the recall of details?",
+      "keywords": [
+        "Diana disagree",
+        "Neil's assertion",
+        "weapons reduce recall"
+      ],
+      "quote": "But, actually, that doesn't seem to be the case in real-world situations. If anything, the presence of weapons in actual crimes make witnesses more conscious of details like age and race.",
+      "answerSpan": "that doesn't seem to be the case in real-world situations.",
+      "zh": "但实际上，在现实世界中似乎并非如此。如果说有什么不同的话，那就是在实际犯罪中武器的存在反而让目击者更关注年龄和种族等细节。",
+      "refAnswer": "戴安娜认为，在现实世界中，武器的存在并不会减少细节回忆，反而可能让证人更关注细节。",
+      "examAnswer": "the effect was only observed under experimental conditions.",
+      "segment": {
+        "start": 213.64,
+        "end": 227.24
+      },
+      "units": [
         {
-          "text": "But, actually, that doesn't seem",
+          "text": "But, actually, that doesn't seem to be the case in real-world situations. If anything,",
           "segment": {
-            "start": 213.34,
-            "end": 216.48
-          }
-        },
-        {
-          "text": "to be the case in real-world situations. If anything,",
-          "segment": {
-            "start": 215.58,
+            "start": 213.64,
             "end": 219.94
           }
         },
         {
-          "text": "the presence of weapons in actual crimes make witnesses more conscious",
+          "text": "the presence of weapons in actual crimes make witnesses more conscious of details like age and race.",
           "segment": {
             "start": 219.04,
-            "end": 224.02
+            "end": 227.24
           }
-        },
+        }
+      ],
+      "n": 6
+    },
+    {
+      "source": "generated",
+      "examNo": null,
+      "question": "What specific benefit does Diana mention about living in a diverse community regarding eyewitness identification?",
+      "keywords": [
+        "specific benefit",
+        "diverse community",
+        "eyewitness identification"
+      ],
+      "quote": "Indeed, studies indicate that living in a diverse community can significantly enhance one's ability to recognise and remember information about individuals from various racial backgrounds.",
+      "answerSpan": "living in a diverse community can significantly enhance one's ability to recognise and remember information about individuals from various racial backgrounds.",
+      "zh": "事实上，研究表明，生活在多元化社区可以显著提高一个人识别和记住来自不同种族背景的人的能力。",
+      "refAnswer": "生活在多元化社区可以显著提高识别和记住不同种族背景人群的能力。",
+      "examAnswer": "",
+      "segment": {
+        "start": 243.8,
+        "end": 257.26
+      },
+      "units": [
         {
-          "text": "of details like age and race.",
+          "text": "Indeed, studies indicate that living in a diverse community can significantly enhance one's ability to recognise and remember information about individuals from various racial backgrounds.",
           "segment": {
-            "start": 223.12,
-            "end": 226.98
+            "start": 243.8,
+            "end": 257.26
           }
         }
       ],
@@ -379,92 +288,57 @@
     },
     {
       "source": "exam",
-      "examNo": 27,
-      "question": "Why does Diana object to Neil's point about weapons reducing the recall of detail?",
+      "examNo": 29,
+      "question": "What do the speakers conclude about the relationship between a witness's confidence and the accuracy of their testimony?",
       "keywords": [
-        "Diana object",
-        "Neil's point",
-        "weapons reducing recall"
+        "speakers conclude",
+        "confidence",
+        "accuracy"
       ],
-      "quote": "But, actually, that doesn't seem to be the case in real-world situations. If anything, the presence of weapons in actual crimes make witnesses more conscious of details like age and race.",
-      "answerSpan": "that doesn't seem to be the case in real-world situations",
-      "zh": "但实际上，在现实世界中似乎并非如此。如果说有什么不同的话，那就是在实际犯罪中武器的存在反而会让目击者更注意年龄和种族等细节。",
-      "refAnswer": "黛安娜反对尼尔的观点，因为她认为在现实世界中，武器的存在并不会减少对细节的记忆。",
-      "examAnswer": "the effect was only observed under experimental conditions.",
+      "quote": "And people on juries place great weight on confidence, they equate it with accuracy.",
+      "answerSpan": "people on juries place great weight on confidence, they equate it with accuracy.",
+      "zh": "陪审团成员非常看重自信，他们将其等同于准确性。",
+      "refAnswer": "陪审团通常非常看重证人的自信，并将其等同于准确性。",
+      "examAnswer": "A person confident in their memory is usually believed in court.",
       "segment": {
-        "start": 211.96,
-        "end": 227.5
+        "start": 272.88,
+        "end": 280.08
       },
       "units": [
         {
-          "text": "But, actually, that doesn't seem",
+          "text": "And people on juries place great weight on confidence, they equate it with accuracy.",
           "segment": {
-            "start": 213.34,
-            "end": 216.48
-          }
-        },
-        {
-          "text": "to be the case in real-world situations. If anything,",
-          "segment": {
-            "start": 215.58,
-            "end": 219.94
-          }
-        },
-        {
-          "text": "the presence of weapons in actual crimes make witnesses more conscious",
-          "segment": {
-            "start": 219.04,
-            "end": 224.02
-          }
-        },
-        {
-          "text": "of details like age and race.",
-          "segment": {
-            "start": 223.12,
-            "end": 227.5
+            "start": 272.88,
+            "end": 280.08
           }
         }
       ],
       "n": 8
     },
     {
-      "source": "exam",
-      "examNo": 28,
-      "question": "What does Diana say about the influence of race on eyewitness evidence?",
+      "source": "generated",
+      "examNo": null,
+      "question": "What is Diana's ultimate conclusion about the relationship between a witness's confidence and the reliability of their testimony?",
       "keywords": [
-        "Diana",
-        "influence of race",
-        "eyewitness evidence"
+        "Diana's ultimate conclusion",
+        "confidence",
+        "reliability of testimony"
       ],
-      "quote": "Indeed, studies indicate that living in a diverse community can significantly enhance one's ability to recognise and remember information about individuals from various racial backgrounds.",
-      "answerSpan": "living in a diverse community can significantly enhance one's ability to recognise and remember information about individuals from various racial backgrounds",
-      "zh": "事实上，研究表明，生活在多元化社区可以显著增强一个人识别和记忆来自不同种族背景个体信息的能力。",
-      "refAnswer": "黛安娜认为，生活在多元化社区可以增强识别和记忆不同种族背景个体的能力，因此种族不是准确识别的障碍。",
-      "examAnswer": "In a multicultural society, race isn't a barrier to accurate identification.",
+      "quote": "Nonetheless, confidence alone doesn't guarantee the reliability of a witness's testimony.",
+      "answerSpan": "confidence alone doesn't guarantee the reliability of a witness's testimony.",
+      "zh": "尽管如此，仅仅自信并不能保证证人证词的可靠性。",
+      "refAnswer": "仅仅自信并不能保证证人证词的可靠性。",
+      "examAnswer": "",
       "segment": {
-        "start": 242.1,
-        "end": 257.26
+        "start": 293.42,
+        "end": 300.58
       },
       "units": [
         {
-          "text": "Indeed, studies indicate",
+          "text": "Nonetheless, confidence alone doesn't guarantee the reliability of a witness's testimony.",
           "segment": {
-            "start": 243.5,
-            "end": 246.26
-          }
-        },
-        {
-          "text": "that living in a diverse community can significantly enhance one's ability to recognise",
-          "segment": {
-            "start": 245.36,
-            "end": 251.38
-          }
-        },
-        {
-          "text": "and remember information about individuals from various racial backgrounds.",
-          "segment": {
-            "start": 250.48,
-            "end": 257.26
+            "start": 293.42,
+            "end": 300.58
           }
         }
       ],
@@ -473,101 +347,92 @@
     {
       "source": "generated",
       "examNo": null,
-      "question": "What common mistake do juries make when evaluating a witness's testimony?",
+      "question": "What specific task are students given when watching the basketball video in the inattentional blindness experiment?",
       "keywords": [
-        "common mistake",
-        "juries",
-        "evaluating",
-        "witness's testimony"
+        "specific task",
+        "students given",
+        "basketball video",
+        "experiment"
       ],
-      "quote": "And people on juries place great weight on confidence, they equate it with accuracy.",
-      "answerSpan": "people on juries place great weight on confidence, they equate it with accuracy",
-      "zh": "陪审团成员非常看重自信，他们将其等同于准确性。",
-      "refAnswer": "陪审团常犯的错误是把证人的自信等同于证词的准确性。",
+      "quote": "It's of people playing basketball, and the viewer has to count the number of passes of the ball made by one of the teams.",
+      "answerSpan": "the viewer has to count the number of passes of the ball made by one of the teams.",
+      "zh": "视频是关于人们打篮球的，观看者必须数其中一支球队传球的次数。",
+      "refAnswer": "学生们被要求数其中一支球队传球的次数。",
       "examAnswer": "",
       "segment": {
-        "start": 271.66,
-        "end": 280.08
+        "start": 317.0,
+        "end": 325.76
       },
       "units": [
         {
-          "text": "And people on juries place great weight on confidence,",
+          "text": "It's of people playing basketball, and the viewer has to count the number of passes of the ball made by one of the teams.",
           "segment": {
-            "start": 272.58,
-            "end": 277.3
-          }
-        },
-        {
-          "text": "they equate it with accuracy.",
-          "segment": {
-            "start": 276.4,
-            "end": 280.08
+            "start": 317.0,
+            "end": 325.76
           }
         }
       ],
       "n": 10
     },
     {
-      "source": "exam",
-      "examNo": 29,
-      "question": "What do the speakers conclude about the relationship between a witness's confidence and the accuracy of their testimony?",
+      "source": "generated",
+      "examNo": null,
+      "question": "What surprising detail do many students fail to notice in the basketball video?",
       "keywords": [
-        "speakers conclude",
-        "relationship",
-        "confidence",
-        "accuracy",
-        "testimony"
+        "surprising detail",
+        "fail to notice",
+        "basketball video"
       ],
-      "quote": "And people on juries place great weight on confidence, they equate it with accuracy.",
-      "answerSpan": "people on juries place great weight on confidence, they equate it with accuracy",
-      "zh": "陪审团成员非常看重自信，他们将其等同于准确性。",
-      "refAnswer": "演讲者们指出，陪审团成员往往非常看重证人的自信，并将其等同于证词的准确性。",
-      "examAnswer": "A person confident in their memory is usually believed in court.",
+      "quote": "Yes! During the basketball game, someone in a gorilla suit comes and stands on the court. The first time I watched the video I completely missed the gorilla! On average, just under half don't notice it, even though it's so unusual.",
+      "answerSpan": "someone in a gorilla suit comes and stands on the court.",
+      "zh": "是的！在篮球比赛中，一个穿着大猩猩套装的人走上球场并站在那里。我第一次看这个视频时完全错过了大猩猩！平均而言，不到一半的人没有注意到它，尽管它非常不寻常。",
+      "refAnswer": "许多学生没有注意到一个穿着大猩猩套装的人在球场上。",
+      "examAnswer": "",
       "segment": {
-        "start": 271.66,
-        "end": 280.08
+        "start": 331.06,
+        "end": 344.78
       },
       "units": [
         {
-          "text": "And people on juries place great weight on confidence,",
+          "text": "Yes! During the basketball game, someone in a gorilla suit comes and stands on the court. The first time I watched the video I completely missed the gorilla! On average,",
           "segment": {
-            "start": 272.58,
-            "end": 277.3
+            "start": 331.06,
+            "end": 343.0
           }
         },
         {
-          "text": "they equate it with accuracy.",
+          "text": "just under half don't notice it, even though it's so unusual.",
           "segment": {
-            "start": 276.4,
-            "end": 280.08
+            "start": 342.1,
+            "end": 344.78
           }
         }
       ],
       "n": 11
     },
     {
-      "source": "generated",
-      "examNo": null,
-      "question": "What phenomenon does the gorilla experiment illustrate regarding human perception?",
+      "source": "exam",
+      "examNo": 30,
+      "question": "What is the main implication of the gorilla story regarding eyewitness observation?",
       "keywords": [
-        "gorilla experiment",
-        "illustrate",
-        "human perception"
+        "main implication",
+        "gorilla story",
+        "eyewitness observation"
       ],
       "quote": "The point is... if you're paying very close attention to something, you can miss other things which come into view, however unusual they are.",
-      "answerSpan": "if you're paying very close attention to something, you can miss other things which come into view, however unusual they are",
-      "zh": "关键是……如果你非常专注地关注某件事，你可能会错过其他进入视野的事物，无论它们多么不寻常。",
-      "refAnswer": "大猩猩实验说明了“非注意盲视”现象，即当人们高度专注于某事时，可能会忽略其他显眼的事物。",
-      "examAnswer": "",
+      "answerSpan": "if you're paying very close attention to something, you can miss other things which come into view, however unusual they are.",
+      "zh": "关键是……如果你非常密切地关注某件事，你可能会错过进入视野的其他事物，无论它们多么不寻常。",
+      "refAnswer": "大猩猩故事的含义是，当人们专注于某事时，可能会错过其他即使不寻常的细节。",
+      "examAnswer": "a person who witnesses a crime may miss key details.",
       "segment": {
-        "start": 345.46,
-        "end": 357.7
+        "start": 347.4,
+        "end": 357.42
       },
       "units": [
         {
           "text": "The point is... if you're paying very close attention to something,",
           "segment": {
-            "start": 347.1,
+            "start": 347.4,
             "end": 351.7
           }
         },
@@ -575,7 +440,7 @@
           "text": "you can miss other things which come into view, however unusual they are.",
           "segment": {
             "start": 350.8,
-            "end": 357.7
+            "end": 357.42
           }
         }
       ],
@@ -583,39 +448,83 @@
     },
     {
       "source": "exam",
-      "examNo": 30,
-      "question": "What is the implication of the gorilla story for eyewitness testimony?",
+      "examNo": 28,
+      "question": "What is Diana's view on the influence of race on the reliability of eyewitness identification?",
       "keywords": [
-        "implication",
-        "gorilla story",
-        "eyewitness testimony"
+        "Diana's view",
+        "influence of race",
+        "eyewitness identification"
       ],
-      "quote": "The point is... if you're paying very close attention to something, you can miss other things which come into view, however unusual they are.",
-      "answerSpan": "if you're paying very close attention to something, you can miss other things which come into view, however unusual they are",
-      "zh": "关键是……如果你非常专注地关注某件事，你可能会错过其他进入视野的事物，无论它们多么不寻常。",
-      "refAnswer": "大猩猩故事的含义是，目击者在高度专注某事时，可能会错过其他重要的细节。",
-      "examAnswer": "a person who witnesses a crime may miss key details.",
+      "quote": "Well, some may argue that accurately identifying individuals from racial backgrounds other than your own can be a bit tricky, but personally, I doubt it. Indeed, studies indicate that living in a diverse community can significantly enhance one's ability to recognise and remember information about individuals from various racial backgrounds.",
+      "answerSpan": "studies indicate that living in a diverse community can significantly enhance one's ability to recognise and remember information about individuals from various racial backgrounds.",
+      "zh": "嗯，有些人可能会争辩说，准确识别来自不同种族背景的人可能有点棘手，但我个人对此表示怀疑。事实上，研究表明，生活在多元化社区可以显著提高一个人识别和记住来自不同种族背景的人的能力。",
+      "refAnswer": "戴安娜认为，生活在多元化社区可以增强识别不同种族背景人群的能力，因此种族不是准确识别的障碍。",
+      "examAnswer": "In a multicultural society, race isn't a barrier to accurate identification.",
       "segment": {
-        "start": 345.46,
-        "end": 357.7
+        "start": 516.01,
+        "end": 538.95
       },
       "units": [
         {
-          "text": "The point is... if you're paying very close attention to something,",
+          "text": "Well, some may argue that accurately identifying individuals from racial backgrounds other than your own can be a bit tricky,",
           "segment": {
-            "start": 347.1,
-            "end": 351.7
+            "start": 516.01,
+            "end": 524.07
           }
         },
         {
-          "text": "you can miss other things which come into view, however unusual they are.",
+          "text": "but personally, I doubt it. Indeed,",
           "segment": {
-            "start": 350.8,
-            "end": 357.7
+            "start": 523.17,
+            "end": 527.17
+          }
+        },
+        {
+          "text": "studies indicate that living in a diverse community can significantly enhance one's ability to recognise and remember information about individuals from various racial backgrounds.",
+          "segment": {
+            "start": 526.27,
+            "end": 538.95
           }
         }
       ],
       "n": 13
+    },
+    {
+      "source": "generated",
+      "examNo": null,
+      "question": "According to Diana, why might an elderly person with reduced eyesight still be considered a confident, but potentially unreliable, witness?",
+      "keywords": [
+        "elderly person",
+        "reduced eyesight",
+        "confident",
+        "unreliable witness"
+      ],
+      "quote": "For example, an elderly person with reduced eyesight, may still be very confident that their visual memory's accurate. I see it in court all the time. And people on juries place great weight on confidence, they equate it with accuracy.",
+      "answerSpan": "an elderly person with reduced eyesight, may still be very confident that their visual memory's accurate.",
+      "zh": "例如，一个视力下降的老年人，可能仍然非常自信他们的视觉记忆是准确的。我经常在法庭上看到这种情况。陪审团成员非常看重自信，他们将其等同于准确性。",
+      "refAnswer": "戴安娜指出，视力下降的老年人可能仍对自己的视觉记忆非常自信，但这种自信不等于准确性。",
+      "examAnswer": "",
+      "segment": {
+        "start": 544.47,
+        "end": 561.57
+      },
+      "units": [
+        {
+          "text": "For example, an elderly person with reduced eyesight,",
+          "segment": {
+            "start": 544.47,
+            "end": 548.11
+          }
+        },
+        {
+          "text": "may still be very confident that their visual memory's accurate. I see it in court all the time. And people on juries place great weight on confidence, they equate it with accuracy.",
+          "segment": {
+            "start": 547.21,
+            "end": 561.57
+          }
+        }
+      ],
+      "n": 14
     }
   ]
 }

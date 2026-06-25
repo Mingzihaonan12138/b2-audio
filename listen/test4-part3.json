@@ -7,31 +7,24 @@
     {
       "n": 1,
       "quote": "Today, I'm going to give you a brief introduction into how the library works and your roles here, but as Chief Librarian, my door's always open if you have questions later.",
-      "zh": "今天，我将向你们简要介绍图书馆的运作方式和你们在这里的角色，但作为首席图书馆员，如果你们以后有任何问题，我的办公室随时欢迎。",
+      "zh": "今天我将简要介绍图书馆的运作方式和你们在这里的角色，但作为首席图书馆员，如果你们以后有任何问题，我的大门随时敞开。",
       "segment": {
-        "start": 55.67,
-        "end": 66.99
+        "start": 57.37,
+        "end": 68.63
       },
       "units": [
         {
-          "text": "Today, I'm going to give you a brief introduction",
+          "text": "Today, I'm going to give you a brief introduction into how the library works and your roles here,",
           "segment": {
-            "start": 57.07,
-            "end": 59.93
-          }
-        },
-        {
-          "text": "into how the library works and your roles here,",
-          "segment": {
-            "start": 59.03,
-            "end": 63.45
+            "start": 57.37,
+            "end": 62.75
           }
         },
         {
           "text": "but as Chief Librarian, my door's always open if you have questions later.",
           "segment": {
-            "start": 62.55,
-            "end": 66.99
+            "start": 61.85,
+            "end": 68.63
           }
         }
       ],
@@ -47,70 +40,55 @@
       "quote": "Now, the library was founded in 1894 and in 1951 acquired its present building here at 95 St. Joseph Street.",
       "zh": "图书馆成立于1894年，并于1951年获得了位于圣约瑟夫街95号的现有建筑。",
       "segment": {
-        "start": 66.39,
-        "end": 76.37
+        "start": 67.83,
+        "end": 78.03
       },
       "units": [
         {
-          "text": "Now, the library was founded in 1894",
+          "text": "Now, the library was founded in 1894 and in 1951 acquired its present building here at 95 St. Joseph Street.",
           "segment": {
-            "start": 67.53,
-            "end": 71.25
-          }
-        },
-        {
-          "text": "and in 1951 acquired its present building here at 95 St. Joseph Street.",
-          "segment": {
-            "start": 70.35,
-            "end": 76.37
+            "start": 67.83,
+            "end": 78.03
           }
         }
       ],
       "gaps": [
         {
-          "word": "1894",
-          "maps_to": "1894"
+          "word": "founded",
+          "maps_to": "established"
+        },
+        {
+          "word": "1894"
         },
         {
           "word": "St. Joseph Street"
         }
       ],
-      "note": "1894是考点18的答案。"
+      "note": "Q18: The university library was established in ______ . [answer: 1894]"
     },
     {
       "n": 3,
       "quote": "Within the library we organise our reference books using the Dewey Decimal system named after an American librarian who invented the system in 1876.",
-      "zh": "在图书馆内，我们使用杜威十进制分类法来组织我们的参考书，该系统以一位美国图书馆员的名字命名，他于1876年发明了该系统。",
+      "zh": "在图书馆内，我们使用杜威十进制分类法来整理参考书，该系统以一位美国图书馆员的名字命名，他于1876年发明了此系统。",
       "segment": {
-        "start": 75.77,
-        "end": 85.05
+        "start": 77.23,
+        "end": 87.65
       },
       "units": [
         {
-          "text": "Within the library we organise our reference books using",
+          "text": "Within the library we organise our reference books using the Dewey Decimal system named after an American librarian who invented the system in 1876.",
           "segment": {
-            "start": 76.93,
-            "end": 80.61
-          }
-        },
-        {
-          "text": "the Dewey Decimal system named after an American librarian",
-          "segment": {
-            "start": 79.71,
-            "end": 83.87
-          }
-        },
-        {
-          "text": "who invented the system in 1876.",
-          "segment": {
-            "start": 82.97,
-            "end": 85.05
+            "start": 77.23,
+            "end": 87.65
           }
         }
       ],
       "gaps": [
         {
           "word": "Dewey Decimal system"
+        },
+        {
+          "word": "1876"
         }
       ],
       "note": ""
@@ -118,31 +96,17 @@
     {
       "n": 4,
       "quote": "Now, your main responsibility will be to assist our library users in locating the resources they need in our collection.",
-      "zh": "现在，你们的主要职责将是协助图书馆用户在我们的馆藏中找到他们所需的资源。",
+      "zh": "你们的主要职责将是协助图书馆用户找到他们收藏中所需的资源。",
       "segment": {
-        "start": 84.45,
-        "end": 93.13
+        "start": 86.85,
+        "end": 94.85
       },
       "units": [
         {
-          "text": "Now, your main responsibility will be",
+          "text": "Now, your main responsibility will be to assist our library users in locating the resources they need in our collection.",
           "segment": {
-            "start": 86.55,
-            "end": 89.47
-          }
-        },
-        {
-          "text": "to assist our library users",
-          "segment": {
-            "start": 88.57,
-            "end": 91.07
-          }
-        },
-        {
-          "text": "in locating the resources they need in our collection.",
-          "segment": {
-            "start": 90.17,
-            "end": 93.13
+            "start": 86.85,
+            "end": 94.85
           }
         }
       ],
@@ -151,7 +115,7 @@
           "word": "main responsibility"
         },
         {
-          "word": "locating the resources"
+          "word": "resources"
         }
       ],
       "note": ""
@@ -159,16 +123,16 @@
     {
       "n": 5,
       "quote": "Other, ongoing tasks include acquiring new materials and digital resources, cataloguing them, and maintaining the organisation of the library's collection.",
-      "zh": "其他持续性任务包括获取新材料和数字资源、对其进行编目，以及维护图书馆馆藏的组织结构。",
+      "zh": "其他持续性任务包括获取新材料和数字资源、对其进行编目，以及维护图书馆藏品的组织。",
       "segment": {
-        "start": 92.53,
-        "end": 103.13
+        "start": 94.05,
+        "end": 104.91
       },
       "units": [
         {
           "text": "Other, ongoing tasks include acquiring new materials and digital resources, cataloguing them,",
           "segment": {
-            "start": 93.75,
+            "start": 94.05,
             "end": 100.49
           }
         },
@@ -176,16 +140,16 @@
           "text": "and maintaining the organisation of the library's collection.",
           "segment": {
             "start": 99.59,
-            "end": 103.13
+            "end": 104.91
           }
         }
       ],
       "gaps": [
         {
-          "word": "acquiring"
+          "word": "digital resources"
         },
         {
-          "word": "digital resources"
+          "word": "maintaining"
         }
       ],
       "note": ""
@@ -195,21 +159,14 @@
       "quote": "One of our critical responsibilities is deciding which materials to include or remove from the collection, and that's done by considering both user demand and budget limitations.",
       "zh": "我们的一项关键职责是决定哪些材料应纳入或从馆藏中移除，这需要同时考虑用户需求和预算限制。",
       "segment": {
-        "start": 102.53,
-        "end": 111.45
+        "start": 104.11,
+        "end": 116.43
       },
       "units": [
         {
-          "text": "One of our critical responsibilities is deciding",
+          "text": "One of our critical responsibilities is deciding which materials to include or remove from the collection,",
           "segment": {
-            "start": 103.81,
-            "end": 107.25
-          }
-        },
-        {
-          "text": "which materials to include or remove from the collection,",
-          "segment": {
-            "start": 106.35,
+            "start": 104.11,
             "end": 111.35
           }
         },
@@ -217,55 +174,52 @@
           "text": "and that's done by considering both user demand and budget limitations.",
           "segment": {
             "start": 110.45,
-            "end": 111.45
+            "end": 116.43
           }
         }
       ],
       "gaps": [
         {
-          "word": "remove"
+          "word": "user demand",
+          "maps_to": "user requests"
         },
         {
           "word": "budget",
           "maps_to": "budget"
         }
       ],
-      "note": "budget是考点19的答案。"
+      "note": "Q19: Librarians also select materials to remove from or add to the collection, based on user requests and the ______ that's available. [answer: budget]"
     },
     {
       "n": 7,
       "quote": "Right, so some basic information .... this main library's open from Monday to Friday, 8.00 a.m. to 10.00 p.m., and at the weekend from 10.00 a.m. to 6.00 p.m.",
-      "zh": "好的，一些基本信息……这个主图书馆周一至周五开放时间是早上8点到晚上10点，周末是早上10点到下午6点。",
+      "zh": "好的，一些基本信息……这个主图书馆周一到周五上午8点到晚上10点开放，周末从上午10点到下午6点开放。",
       "segment": {
-        "start": 110.85,
-        "end": 125.93
+        "start": 115.63,
+        "end": 126.43
       },
       "units": [
         {
           "text": "Right, so some basic information .... this main library's open from Monday to Friday,",
           "segment": {
-            "start": 115.33,
+            "start": 115.63,
             "end": 121.25
           }
         },
         {
-          "text": "8.00 a.m. to 10.00 p.m.,",
+          "text": "8.00 a.m. to 10.00 p.m., and at the weekend from 10.00 a.m. to 6.00 p.m.",
           "segment": {
             "start": 120.35,
-            "end": 123.71
-          }
-        },
-        {
-          "text": "and at the weekend from 10.00 a.m. to 6.00 p.m.",
-          "segment": {
-            "start": 122.81,
-            "end": 125.93
+            "end": 126.43
           }
         }
       ],
       "gaps": [
         {
           "word": "Monday to Friday"
+        },
+        {
+          "word": "8.00 a.m."
         },
         {
           "word": "10.00 p.m."
@@ -282,16 +236,16 @@
     {
       "n": 8,
       "quote": "But we extend those hours during the periods when exams are underway, so you may have to work later then.",
-      "zh": "但在考试期间我们会延长开放时间，所以你们可能需要工作到更晚。",
+      "zh": "但考试期间我们会延长开放时间，所以那时你们可能需要工作到更晚。",
       "segment": {
-        "start": 125.33,
-        "end": 315.51
+        "start": 125.63,
+        "end": 317.31
       },
       "units": [
         {
           "text": "But we extend those hours during the periods when exams are underway,",
           "segment": {
-            "start": 124.07,
+            "start": 125.63,
             "end": 130.09
           }
         },
@@ -299,51 +253,37 @@
           "text": "so you may have to work later then.",
           "segment": {
             "start": 129.19,
-            "end": 315.51
+            "end": 317.31
           }
         }
       ],
       "gaps": [
         {
-          "word": "extend those hours"
-        },
-        {
-          "word": "exams",
-          "maps_to": "exams"
+          "word": "exams"
         }
       ],
-      "note": "exams是考点20的答案。"
+      "note": "Q20: Opening hours are 8.00-22.00, or 10.00-18.00 at weekends, with later closing when there are ______ going on. [answer: exams]"
     },
     {
       "n": 9,
       "quote": "The library's mostly for reference, but we do have a fiction section on the third floor.",
       "zh": "图书馆主要用于参考，但我们在三楼确实有一个小说区。",
       "segment": {
-        "start": 314.91,
-        "end": 320.97
+        "start": 316.51,
+        "end": 322.53
       },
       "units": [
         {
-          "text": "The library's mostly for reference,",
+          "text": "The library's mostly for reference, but we do have a fiction section on the third floor.",
           "segment": {
-            "start": 316.21,
-            "end": 319.27
-          }
-        },
-        {
-          "text": "but we do have a fiction section on the third floor.",
-          "segment": {
-            "start": 318.37,
-            "end": 320.97
+            "start": 316.51,
+            "end": 322.53
           }
         }
       ],
       "gaps": [
         {
           "word": "fiction section"
-        },
-        {
-          "word": "third floor"
         }
       ],
       "note": ""
@@ -351,23 +291,16 @@
     {
       "n": 10,
       "quote": "It's quite limited, but if a library user requests a particular title which isn't in our collection, we can order it from the main city library.",
-      "zh": "它的藏书量相当有限，但如果图书馆用户请求某个我们馆藏中没有的特定书名，我们可以从市中心图书馆订购。",
+      "zh": "它相当有限，但如果图书馆用户请求某个我们馆藏中没有的特定书名，我们可以从市中心图书馆订购。",
       "segment": {
-        "start": 320.37,
-        "end": 329.77
+        "start": 321.73,
+        "end": 331.73
       },
       "units": [
         {
-          "text": "It's quite limited, but if a library user requests a particular title",
+          "text": "It's quite limited, but if a library user requests a particular title which isn't in our collection,",
           "segment": {
-            "start": 321.43,
-            "end": 326.43
-          }
-        },
-        {
-          "text": "which isn't in our collection,",
-          "segment": {
-            "start": 325.53,
+            "start": 321.73,
             "end": 328.29
           }
         },
@@ -375,7 +308,7 @@
           "text": "we can order it from the main city library.",
           "segment": {
             "start": 327.39,
-            "end": 329.77
+            "end": 331.73
           }
         }
       ],
@@ -384,7 +317,7 @@
           "word": "particular title"
         },
         {
-          "word": "order it"
+          "word": "main city library"
         }
       ],
       "note": ""
@@ -392,23 +325,16 @@
     {
       "n": 11,
       "quote": "Of course, as you probably already know because you use them for your own studies, we have a large number of journals which the library subscribes to.",
-      "zh": "当然，你们可能已经知道，因为你们自己的学习也会用到，我们订阅了大量的期刊。",
+      "zh": "当然，你们可能已经知道，因为你们自己的学习也会用到，我们图书馆订阅了大量的期刊。",
       "segment": {
-        "start": 329.17,
-        "end": 338.59
+        "start": 330.93,
+        "end": 340.09
       },
       "units": [
         {
-          "text": "Of course, as you probably already know",
+          "text": "Of course, as you probably already know because you use them for your own studies,",
           "segment": {
-            "start": 330.63,
-            "end": 333.41
-          }
-        },
-        {
-          "text": "because you use them for your own studies,",
-          "segment": {
-            "start": 332.51,
+            "start": 330.93,
             "end": 335.75
           }
         },
@@ -416,86 +342,62 @@
           "text": "we have a large number of journals which the library subscribes to.",
           "segment": {
             "start": 334.85,
-            "end": 338.59
+            "end": 340.09
           }
         }
       ],
       "gaps": [
         {
-          "word": "large number"
-        },
-        {
-          "word": "journals",
-          "maps_to": "journals"
-        },
-        {
-          "word": "subscribes to"
+          "word": "journals"
         }
       ],
-      "note": "journals是考点21的答案。"
+      "note": "Q21: You can locate the ______ on the second floor, organised alphabetically. [answer: journals]"
     },
     {
       "n": 12,
       "quote": "They're situated on the second floor, away from the reference books.",
-      "zh": "它们位于二楼，远离参考书区。",
+      "zh": "它们位于二楼，远离参考书。",
       "segment": {
-        "start": 337.99,
-        "end": 342.29
+        "start": 339.29,
+        "end": 343.97
       },
       "units": [
         {
           "text": "They're situated on the second floor, away from the reference books.",
           "segment": {
-            "start": 337.99,
-            "end": 342.29
+            "start": 339.29,
+            "end": 343.97
           }
         }
       ],
       "gaps": [
         {
           "word": "second floor"
-        },
-        {
-          "word": "reference books"
         }
       ],
-      "note": "考点21提到期刊位于二楼。"
+      "note": ""
     },
     {
       "n": 13,
       "quote": "These items are arranged alphabetically by title, and some of you may be spending quite a lot of your time in that section, keeping it all in order.",
-      "zh": "这些物品按标题字母顺序排列，你们中的一些人可能会花很多时间在该区域，保持其整洁有序。",
+      "zh": "这些物品按标题字母顺序排列，你们中的一些人可能会花很多时间在那个区域，保持它的整洁有序。",
       "segment": {
-        "start": 341.69,
-        "end": 351.05
+        "start": 343.17,
+        "end": 352.73
       },
       "units": [
         {
           "text": "These items are arranged alphabetically by title,",
           "segment": {
-            "start": 342.87,
+            "start": 343.17,
             "end": 346.79
           }
         },
         {
-          "text": "and some of you may be spending quite a lot",
+          "text": "and some of you may be spending quite a lot of your time in that section, keeping it all in order.",
           "segment": {
             "start": 345.89,
-            "end": 348.97
-          }
-        },
-        {
-          "text": "of your time in that section,",
-          "segment": {
-            "start": 348.07,
-            "end": 350.61
-          }
-        },
-        {
-          "text": "keeping it all in order.",
-          "segment": {
-            "start": 349.71,
-            "end": 351.05
+            "end": 352.73
           }
         }
       ],
@@ -504,21 +406,21 @@
           "word": "arranged alphabetically"
         }
       ],
-      "note": "考点21提到按字母顺序排列。"
+      "note": ""
     },
     {
       "n": 14,
       "quote": "Now, as you know, this library's on the main campus, but we have a smaller one, the Johnson library, that's spelled J-O-H-N-S-O-N, on the secondary campus.",
-      "zh": "现在，如你们所知，这个图书馆在主校区，但我们还有一个较小的图书馆，约翰逊图书馆（拼写为J-O-H-N-S-O-N），在副校区。",
+      "zh": "你们知道，这个图书馆在主校区，但我们还有一个较小的图书馆，约翰逊图书馆（拼写是J-O-H-N-S-O-N），在副校区。",
       "segment": {
-        "start": 350.45,
-        "end": 362.91
+        "start": 351.93,
+        "end": 363.41
       },
       "units": [
         {
           "text": "Now, as you know, this library's on the main campus,",
           "segment": {
-            "start": 351.63,
+            "start": 351.93,
             "end": 355.29
           }
         },
@@ -526,7 +428,7 @@
           "text": "but we have a smaller one, the Johnson library, that's spelled J-O-H-N-S-O-N, on the secondary campus.",
           "segment": {
             "start": 354.39,
-            "end": 362.91
+            "end": 363.41
           }
         }
       ],
@@ -539,21 +441,21 @@
           "word": "secondary campus"
         }
       ],
-      "note": "Johnson library是考点22的答案。"
+      "note": "Q22: Assistants may have to work in the ______ Library, which is smaller and open during busy times. [answer: Johnson]"
     },
     {
       "n": 15,
       "quote": "It's only open in very busy periods, but you might be asked to work there sometimes.",
       "zh": "它只在非常繁忙的时段开放，但你们有时可能会被要求在那里工作。",
       "segment": {
-        "start": 362.31,
-        "end": 368.55
+        "start": 362.61,
+        "end": 369.05
       },
       "units": [
         {
           "text": "It's only open in very busy periods,",
           "segment": {
-            "start": 362.31,
+            "start": 362.61,
             "end": 365.65
           }
         },
@@ -561,7 +463,7 @@
           "text": "but you might be asked to work there sometimes.",
           "segment": {
             "start": 364.75,
-            "end": 368.55
+            "end": 369.05
           }
         }
       ],
@@ -570,22 +472,22 @@
           "word": "busy periods"
         }
       ],
-      "note": "考点22提到在繁忙时段开放。"
+      "note": ""
     },
     {
       "n": 16,
       "quote": "As another part of your job, you'll also help users with printing, photocopying and scanning.",
       "zh": "作为你们工作的另一部分，你们还将帮助用户进行打印、复印和扫描。",
       "segment": {
-        "start": 367.95,
-        "end": 374.45
+        "start": 368.25,
+        "end": 374.95
       },
       "units": [
         {
           "text": "As another part of your job, you'll also help users with printing, photocopying and scanning.",
           "segment": {
-            "start": 367.95,
-            "end": 374.45
+            "start": 368.25,
+            "end": 374.95
           }
         }
       ],
@@ -594,71 +496,57 @@
           "word": "printing"
         },
         {
-          "word": "photocopying"
-        },
-        {
           "word": "scanning",
           "maps_to": "scanning"
         }
       ],
-      "note": "scanning是考点23的答案。"
+      "note": "Q23: Library users can do printing, photocopying and ______ , normally at no charge. [answer: scanning]"
     },
     {
       "n": 17,
       "quote": "We've got printers and copiers available on each floor and we don't normally charge for those services.",
       "zh": "每层楼都有打印机和复印机，我们通常不收取这些服务的费用。",
       "segment": {
-        "start": 373.85,
-        "end": 378.55
+        "start": 374.15,
+        "end": 380.41
       },
       "units": [
         {
-          "text": "We've got printers and copiers available on each floor",
+          "text": "We've got printers and copiers available on each floor and we don't normally charge for those services.",
           "segment": {
-            "start": 373.85,
-            "end": 377.25
-          }
-        },
-        {
-          "text": "and we don't normally charge for those services.",
-          "segment": {
-            "start": 376.35,
-            "end": 378.55
+            "start": 374.15,
+            "end": 380.41
           }
         }
       ],
       "gaps": [
         {
-          "word": "normally charge"
+          "word": "charge"
         }
       ],
-      "note": "考点23提到通常不收费。"
+      "note": ""
     },
     {
       "n": 18,
       "quote": "Now, a new addition to our services is our twenty-four seven online resources... e-books, articles and research databases.",
       "zh": "现在，我们服务的一个新增加项是我们的24/7在线资源……电子书、文章和研究数据库。",
       "segment": {
-        "start": 377.95,
-        "end": 386.67
+        "start": 379.61,
+        "end": 388.53
       },
       "units": [
         {
-          "text": "Now, a new addition",
+          "text": "Now, a new addition to our services is our twenty-four seven online resources... e-books, articles and research databases.",
           "segment": {
-            "start": 379.31,
-            "end": 381.01
-          }
-        },
-        {
-          "text": "to our services is our twenty-four seven online resources... e-books, articles and research databases.",
-          "segment": {
-            "start": 380.11,
-            "end": 386.67
+            "start": 379.61,
+            "end": 388.53
           }
         }
       ],
       "gaps": [
+        {
+          "word": "twenty-four seven"
+        },
         {
           "word": "online resources"
         },
@@ -667,36 +555,22 @@
           "maps_to": "research databases"
         }
       ],
-      "note": "research databases是考点24的答案。"
+      "note": "Q24: The online resources, including e-books, web articles and ______ are available 24/7. [answer: research databases]"
     },
     {
       "n": 19,
       "quote": "It's a huge help, especially for those students who're having to do late-night study sessions as registered users can access the online resources from their own homes.",
-      "zh": "这是一个巨大的帮助，特别是对于那些需要进行深夜学习的学生，因为注册用户可以在家中访问在线资源。",
+      "zh": "这非常有帮助，特别是对于那些需要进行深夜学习的学生，因为注册用户可以在家中访问在线资源。",
       "segment": {
-        "start": 386.07,
-        "end": 396.81
+        "start": 387.73,
+        "end": 397.31
       },
       "units": [
         {
-          "text": "It's a huge help, especially for those students who're having",
+          "text": "It's a huge help, especially for those students who're having to do late-night study sessions as registered users can access the online resources from their own homes.",
           "segment": {
-            "start": 387.43,
-            "end": 390.95
-          }
-        },
-        {
-          "text": "to do late-night study sessions",
-          "segment": {
-            "start": 390.05,
-            "end": 392.57
-          }
-        },
-        {
-          "text": "as registered users can access the online resources from their own homes.",
-          "segment": {
-            "start": 391.67,
-            "end": 396.81
+            "start": 387.73,
+            "end": 397.31
           }
         }
       ],
@@ -713,16 +587,16 @@
     {
       "n": 20,
       "quote": "Now, while we want our library to be a friendly place, we also need to maintain an environment which is good for studying, so you'll need to remind users to keep the noise down, especially in the study areas.",
-      "zh": "现在，虽然我们希望图书馆是一个友好的地方，但我们也需要维持一个有利于学习的环境，所以你们需要提醒用户保持安静，尤其是在学习区。",
+      "zh": "尽管我们希望图书馆是一个友好的地方，但我们也需要维护一个有利于学习的环境，所以你们需要提醒用户保持安静，尤其是在学习区。",
       "segment": {
-        "start": 396.21,
+        "start": 396.51,
         "end": 411.29
       },
       "units": [
         {
           "text": "Now, while we want our library to be a friendly place,",
           "segment": {
-            "start": 396.21,
+            "start": 396.51,
             "end": 400.55
           }
         },
@@ -734,26 +608,19 @@
           }
         },
         {
-          "text": "so you'll need to remind users to keep the noise down,",
+          "text": "so you'll need to remind users to keep the noise down, especially in the study areas.",
           "segment": {
             "start": 403.55,
-            "end": 408.35
-          }
-        },
-        {
-          "text": "especially in the study areas.",
-          "segment": {
-            "start": 407.45,
             "end": 411.29
           }
         }
       ],
       "gaps": [
         {
-          "word": "maintain an environment"
+          "word": "friendly place"
         },
         {
-          "word": "keep the noise down"
+          "word": "noise down"
         },
         {
           "word": "study areas"
