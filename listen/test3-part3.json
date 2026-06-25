@@ -65,37 +65,16 @@
       },
       "units": [
         {
-          "text": "The group was set up in 1988,",
+          "text": "The group was set up in 1988, not by an environmental scientist,",
           "segment": {
             "start": 76.94,
-            "end": 81.22
-          }
-        },
-        {
-          "text": "not by an environmental scientist,",
-          "segment": {
-            "start": 79.82,
             "end": 83.62
           }
         },
         {
-          "text": "as you perhaps might imagine,",
+          "text": "as you perhaps might imagine, but by a hairdresser, who'd become fed up of seeing piles of rubbish by the local river as he drove to and from his salon.",
           "segment": {
             "start": 82.22,
-            "end": 85.54
-          }
-        },
-        {
-          "text": "but by a hairdresser,",
-          "segment": {
-            "start": 84.14,
-            "end": 86.82
-          }
-        },
-        {
-          "text": "who'd become fed up of seeing piles of rubbish by the local river as he drove to and from his salon.",
-          "segment": {
-            "start": 85.42,
             "end": 93.64
           }
         }
@@ -148,23 +127,9 @@
       },
       "units": [
         {
-          "text": "The primary one,",
+          "text": "The primary one, as you'd probably guess, is collecting any rubbish from the river itself and from the land alongside it.",
           "segment": {
-            "start": 94.6,
-            "end": 96.92
-          }
-        },
-        {
-          "text": "as you'd probably guess,",
-          "segment": {
-            "start": 95.52,
-            "end": 98.48
-          }
-        },
-        {
-          "text": "is collecting any rubbish from the river itself and from the land alongside it.",
-          "segment": {
-            "start": 97.08,
+            "start": 94.9,
             "end": 103.6
           }
         }
@@ -189,30 +154,16 @@
       },
       "units": [
         {
-          "text": "Anything natural close to the water,",
+          "text": "Anything natural close to the water, such as dead leaves,",
           "segment": {
-            "start": 102.1,
-            "end": 105.56
-          }
-        },
-        {
-          "text": "such as dead leaves,",
-          "segment": {
-            "start": 104.16,
+            "start": 101.0,
             "end": 107.32
           }
         },
         {
-          "text": "is left where it's found,",
+          "text": "is left where it's found, with the exception of fallen trees,",
           "segment": {
             "start": 105.92,
-            "end": 109.08
-          }
-        },
-        {
-          "text": "with the exception of fallen trees,",
-          "segment": {
-            "start": 107.68,
             "end": 111.3
           }
         },
@@ -389,30 +340,16 @@
       },
       "units": [
         {
-          "text": "These used to take place once a month,",
+          "text": "These used to take place once a month, but thanks to the large number of volunteers we're getting these days,",
           "segment": {
-            "start": 155.4,
-            "end": 159.38
-          }
-        },
-        {
-          "text": "but thanks to the large number of volunteers we're getting these days,",
-          "segment": {
-            "start": 157.98,
+            "start": 154.26,
             "end": 163.04
           }
         },
         {
-          "text": "there's now just two weeks between each one,",
+          "text": "there's now just two weeks between each one, so if you've just missed a session,",
           "segment": {
             "start": 161.64,
-            "end": 165.66
-          }
-        },
-        {
-          "text": "so if you've just missed a session,",
-          "segment": {
-            "start": 164.26,
             "end": 167.76
           }
         },
@@ -448,30 +385,16 @@
       },
       "units": [
         {
-          "text": "At the clean-up sessions,",
+          "text": "At the clean-up sessions, snacks to keep our energy levels up are provided by a local supermarket that sponsors our work,",
           "segment": {
-            "start": 169.44,
-            "end": 172.22
+            "start": 168.26,
+            "end": 178.32
           }
         },
         {
-          "text": "snacks to keep our energy levels up are provided by a local supermarket that sponsors our work,",
+          "text": "and there's always plenty of drinking water, which we bring in our van to wherever we're working.",
           "segment": {
-            "start": 170.82,
-            "end": 179.36
-          }
-        },
-        {
-          "text": "and there's always plenty of drinking water,",
-          "segment": {
-            "start": 177.96,
-            "end": 181.8
-          }
-        },
-        {
-          "text": "which we bring in our van to wherever we're working.",
-          "segment": {
-            "start": 180.4,
+            "start": 176.92,
             "end": 185.26
           }
         }
@@ -596,23 +519,9 @@
       },
       "units": [
         {
-          "text": "Well, plastic bags are high on the list,",
+          "text": "Well, plastic bags are high on the list, as you'd probably imagine but paper cups are actually at the top, just above drinks cans.",
           "segment": {
-            "start": 207.24,
-            "end": 211.58
-          }
-        },
-        {
-          "text": "as you'd probably imagine but paper cups are actually at the top,",
-          "segment": {
-            "start": 210.18,
-            "end": 216.18
-          }
-        },
-        {
-          "text": "just above drinks cans.",
-          "segment": {
-            "start": 214.78,
+            "start": 207.54,
             "end": 218.34
           }
         }
@@ -692,16 +601,9 @@
       },
       "units": [
         {
-          "text": "In recent times,",
+          "text": "In recent times, for example, we've formed links with one that increases fish populations in areas of fresh water where there are very few.",
           "segment": {
-            "start": 230.48,
-            "end": 232.72
-          }
-        },
-        {
-          "text": "for example, we've formed links with one that increases fish populations in areas of fresh water where there are very few.",
-          "segment": {
-            "start": 231.32,
+            "start": 230.78,
             "end": 241.42
           }
         }
@@ -750,14 +652,14 @@
       "zh": "它收集的数据随后被用于其众多活动中，以争取更清洁的河流系统。",
       "segment": {
         "start": 247.08,
-        "end": 258.88
+        "end": 260.38
       },
       "units": [
         {
           "text": "The data it gathers is then used in its many campaigns to fight for cleaner river systems.",
           "segment": {
             "start": 247.08,
-            "end": 258.88
+            "end": 260.38
           }
         }
       ],
