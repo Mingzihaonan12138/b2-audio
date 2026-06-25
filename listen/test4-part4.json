@@ -29,10 +29,11 @@
           }
         }
       ],
+      "topicCue": "听到 eyewitness testimony/目击证词 的问题(录音里可能说成 memory reconstruction、external factors)→ 这题答案区到了,集中听女方举例说明。",
       "signalType": "举例说明",
-      "signal": "For example",
-      "cue": "注意女方在解释记忆重建时，有没有提到具体的影响因素，尤其是外部因素。",
-      "explain": "女方在提到记忆可能受到外部因素影响后，紧接着用 'For example' 举例说明了 '问题的措辞方式' 如何影响回忆。听到 'For example' 这样的信号词时，要特别留意其后跟的具体例子，这往往是理解抽象概念的关键。",
+      "signal": "For example, the way a question's phrased can shape a person's recollection.",
+      "cue": "注意女方在解释目击证词问题时，有没有举例说明外部因素如何影响记忆。",
+      "explain": "女方在提到“外部因素”后，紧接着用“For example”引出具体例子，说明问题的措辞如何影响回忆。听到“For example”这类短语时，要警觉后面会跟具体的例子或细节，这往往是理解抽象概念的关键。",
       "_question": "What problem with eyewitness evidence does Diana point out?",
       "_options": [
         "the effect of particular words used to trigger recall",
@@ -43,11 +44,11 @@
     },
     {
       "n": 26,
-      "quote": "But a question using smashed couldn't be asked in court. But it could be used, without any bad intention, by a police officer during an initial conversation for example, and then it becomes fixed in the memory of the witness.",
-      "zh": "但是，在法庭上不能问使用“撞毁”这个词的问题。不过，它可能会在没有恶意的情况下，被警官在初次谈话中使用，然后就固定在证人的记忆中了。",
+      "quote": "But a question using smashed couldn't be asked in court.",
+      "zh": "但是，在法庭上不能问使用‘smashed’这样的问题。",
       "segment": {
-        "start": 175.72,
-        "end": 192.86
+        "start": 177.16,
+        "end": 182.62
       },
       "units": [
         {
@@ -56,26 +57,13 @@
             "start": 177.16,
             "end": 182.62
           }
-        },
-        {
-          "text": "But it could be used, without any bad intention, by a police officer during an initial conversation for example,",
-          "segment": {
-            "start": 181.86,
-            "end": 189.18
-          }
-        },
-        {
-          "text": "and then it becomes fixed in the memory of the witness.",
-          "segment": {
-            "start": 188.68,
-            "end": 193.1
-          }
         }
       ],
-      "signalType": "转折",
-      "signal": "But",
-      "cue": "注意女方对男方关于“smashed”这个词的讨论有什么补充或转折，尤其是在法庭上的应用。",
-      "explain": "男方提到“smashed”可能导致法庭上不同的判断，女方立刻用 'But' 进行了转折，指出这种主观性强的词语 'couldn't be asked in court'。听到 'But' 这样的转折词时，要警惕说话者可能要提出一个相反的观点或限制条件，这往往是考点所在。",
+      "topicCue": "听到 subjective language/主观措辞 (录音里可能说成 strong verb 'smashed')→ 这题答案区到了,集中听女方对这种措辞的看法。",
+      "signalType": "结论/重点",
+      "signal": "couldn't be asked in court",
+      "cue": "注意女方对“smashed”这种主观用词在法庭上的使用有什么看法。",
+      "explain": "女方直接指出“But a question using smashed couldn't be asked in court”，明确表示这种主观措辞在法庭上是不允许的。听到这种直接的否定判断（couldn't be asked），要警觉这通常是关于规则、限制或明确结论的关键信息。",
       "_question": "According to Diana, using more subjective language when questioning eyewitnesses",
       "_options": [
         "only makes a small difference to their evidence.",
@@ -86,11 +74,11 @@
     },
     {
       "n": 27,
-      "quote": "But, actually, that doesn't seem to be the case in real-world situations. If anything, the presence of weapons in actual crimes make witnesses more conscious of details like age and race.",
-      "zh": "但是，实际上，在现实世界中似乎并非如此。如果说有什么不同的话，那就是在实际犯罪中武器的存在反而让目击者更关注年龄和种族等细节。",
+      "quote": "But, actually, that doesn't seem to be the case in real-world situations.",
+      "zh": "但是，实际上，在现实世界中情况似乎并非如此。",
       "segment": {
-        "start": 211.96,
-        "end": 226.5
+        "start": 213.34,
+        "end": 218.86
       },
       "units": [
         {
@@ -99,19 +87,13 @@
             "start": 213.34,
             "end": 218.86
           }
-        },
-        {
-          "text": "If anything, the presence of weapons in actual crimes make witnesses more conscious of details like age and race.",
-          "segment": {
-            "start": 218.2,
-            "end": 226.24
-          }
         }
       ],
-      "signalType": "反对/转折",
-      "signal": "But, actually",
-      "cue": "注意女方对男方关于武器影响记忆的观点是同意还是反对，以及她给出的理由。",
-      "explain": "男方提出了一个研究发现，女方立刻用 'But, actually' 表达了不同意见，并指出这种现象 'doesn't seem to be the case in real-world situations'。这暗示了男方提到的研究可能是在非现实情境下进行的。听到 'But, actually' 这样的表达时，要警觉说话者即将提出一个与之前观点相反或修正的看法，这通常是理解对话核心分歧的关键。",
+      "topicCue": "听到 weapons/武器 (录音里可能说成 criminal holding a weapon)→ 这题答案区到了,集中听女方对男方观点的回应。",
+      "signalType": "反对/不同意",
+      "signal": "But, actually, that doesn't seem to be the case",
+      "cue": "注意女方对男方关于“武器会减少细节回忆”的观点是同意还是反对，以及她反对的理由。",
+      "explain": "女方用“But, actually”明确表示了转折和反对，并指出“that doesn't seem to be the case in real-world situations”，暗示男方提到的研究结果可能只适用于实验条件而非真实世界。听到“But, actually”这类转折词时，要警觉说话者即将提出不同意见或修正之前的观点。",
       "_question": "Diana objects to Neil's point about weapons reducing the recall of detail because",
       "_options": [
         "not enough studies have been done to prove the point.",
@@ -122,20 +104,13 @@
     },
     {
       "n": 28,
-      "quote": "Well, some may argue that accurately identifying individuals from racial backgrounds other than your own can be a bit tricky, but personally, I doubt it. Indeed, studies indicate that living in a diverse community can significantly enhance one's ability to recognise and remember information about individuals from various racial backgrounds.",
-      "zh": "嗯，有些人可能会争辩说，准确识别来自不同种族背景的人可能有点棘手，但我个人对此表示怀疑。事实上，研究表明，生活在多元化社区中可以显著提高一个人识别和记忆来自不同种族背景的个体信息的能力。",
+      "quote": "but personally, I doubt it. Indeed, studies indicate that living in a diverse community can significantly enhance one's ability to recognise and remember information about individuals from various racial backgrounds.",
+      "zh": "但我个人对此表示怀疑。事实上，研究表明，生活在多元化社区可以显著提高一个人识别和记住来自不同种族背景个体信息的能力。",
       "segment": {
-        "start": 513.99,
-        "end": 538.51
+        "start": 523.17,
+        "end": 537.95
       },
       "units": [
-        {
-          "text": "Well, some may argue that accurately identifying individuals from racial backgrounds other than your own can be a bit tricky,",
-          "segment": {
-            "start": 513.99,
-            "end": 524.09
-          }
-        },
         {
           "text": "but personally, I doubt it.",
           "segment": {
@@ -151,10 +126,11 @@
           }
         }
       ],
-      "signalType": "反对/强调",
-      "signal": "but personally, I doubt it. Indeed,",
-      "cue": "注意女方对跨种族识别的看法，她是同意普遍观点还是有自己的不同意见和证据？",
-      "explain": "女方首先承认了 'some may argue' 跨种族识别的难度，但紧接着用 'but personally, I doubt it' 表明了她的不同意见，并用 'Indeed, studies indicate' 提供了支持她观点的证据。听到 'but personally, I doubt it' 这样的表达时，要警觉说话者即将提出自己的独特见解，而 'Indeed' 则预示着她会提供进一步的论据来支持这个见解，这通常是关键信息。",
+      "topicCue": "听到 race/种族 (录音里可能说成 racial backgrounds、diverse community)→ 这题答案区到了,集中听女方对种族影响目击证词可靠性的看法。",
+      "signalType": "反对/不同意, 结论/重点",
+      "signal": "but personally, I doubt it. Indeed, studies indicate that...",
+      "cue": "注意女方对“种族是否影响目击证词可靠性”的观点，以及她是否有证据支持。",
+      "explain": "女方先用“but personally, I doubt it”表达了她对“跨种族识别困难”这一观点的怀疑，然后用“Indeed, studies indicate that”引出支持她怀疑的证据，即多元社区生活能增强识别能力。听到“I doubt it”这类表达怀疑的词语，以及“Indeed”这类表示强调和引入证据的词语时，要警觉说话者正在提出自己的明确立场并提供支持。",
       "_question": "What does Diana say about race and eyewitness evidence?",
       "_options": [
         "There's little evidence that one race is better than another at recalling events",
@@ -165,11 +141,11 @@
     },
     {
       "n": 29,
-      "quote": "And people on juries place great weight on confidence, they equate it with accuracy.",
-      "zh": "陪审团成员非常看重自信，他们把自信等同于准确性。",
+      "quote": "And people on juries place great weight on confidence, they equate it with accuracy. Yes, absolutely!",
+      "zh": "陪审团成员非常看重自信，他们将其等同于准确性。是的，完全正确！",
       "segment": {
         "start": 271.66,
-        "end": 279.08
+        "end": 280.88
       },
       "units": [
         {
@@ -185,12 +161,20 @@
             "start": 276.4,
             "end": 279.08
           }
+        },
+        {
+          "text": "Yes, absolutely!",
+          "segment": {
+            "start": 278.92,
+            "end": 280.88
+          }
         }
       ],
-      "signalType": "事实陈述",
-      "signal": "place great weight on confidence, they equate it with accuracy",
-      "cue": "注意女方在讨论老年人记忆时，有没有提到陪审团对证人自信程度的看法。",
-      "explain": "女方在举例说明老年人可能自信但记忆不准确后，直接指出 'And people on juries place great weight on confidence, they equate it with accuracy.' 这句话直接揭示了陪审团在法庭上对自信的看法，是理解自信与准确性关系的关键。听到这种直接陈述事实的句子时，要特别留意其内容，这往往是对话中的重要结论或观点。",
+      "topicCue": "听到 confidence/自信 和 accuracy/准确性 (录音里可能说成 great weight on confidence、equate it with accuracy)→ 这题答案区到了,集中听双方对自信与准确性关系的共识。",
+      "signalType": "同意/共识",
+      "signal": "place great weight on confidence, they equate it with accuracy. Yes, absolutely!",
+      "cue": "注意男方提出一个关于陪审团如何看待自信的观点后，女方是否表示同意。",
+      "explain": "男方指出“people on juries place great weight on confidence, they equate it with accuracy”，女方立刻用“Yes, absolutely!”表示了完全的同意和共识。听到“Yes, absolutely!”这类明确表示赞同的短语时，要警觉这通常是双方达成共识或确认某个事实的关键点。",
       "_question": "What do the speakers conclude about the relationship between confidence and accuracy?",
       "_options": [
         "Confident older witnesses may provide more accurate statements",
@@ -202,7 +186,7 @@
     {
       "n": 30,
       "quote": "The point is... if you're paying very close attention to something, you can miss other things which come into view, however unusual they are.",
-      "zh": "关键是……如果你非常专注于某件事，你可能会错过其他进入视野的东西，无论它们多么不寻常。",
+      "zh": "关键是……如果你非常专注地关注某件事，你可能会错过其他进入视野的事物，无论它们多么不寻常。",
       "segment": {
         "start": 345.46,
         "end": 356.7
@@ -230,10 +214,11 @@
           }
         }
       ],
+      "topicCue": "听到 gorilla story/大猩猩故事 (录音里可能说成 inattentional blindness)→ 这题答案区到了,集中听女方总结这个故事的“point”。",
       "signalType": "结论/重点",
       "signal": "The point is...",
-      "cue": "注意女方在讲完大猩猩实验后，有没有总结这个实验的“重点”或“启示”。",
-      "explain": "女方在讲述完大猩猩实验后，用 'The point is...' 明确地引出了这个实验的结论或核心启示。听到 'The point is...' 这样的短语时，要高度警觉，因为这通常是说话者要总结或强调其核心观点，是理解整个故事或论证目的的关键。",
+      "cue": "注意女方在讲完大猩猩故事后，有没有总结这个故事的“重点”或“寓意”。",
+      "explain": "女方在讲述完大猩猩实验后，用“The point is...”明确引出了这个故事的结论和寓意，即“如果你非常专注地关注某件事，你可能会错过其他进入视野的事物”。听到“The point is”、“The implication is”这类短语时，要警觉说话者正在总结或揭示核心信息，这往往是理解主旨的关键。",
       "_question": "The implication of the gorilla story is that",
       "_options": [
         "a person who witnesses a crime may miss key details.",
