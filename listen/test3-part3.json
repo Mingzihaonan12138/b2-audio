@@ -10,14 +10,14 @@
       "zh": "大家好，我叫内奥米·加拉格尔，我代表一个名为“清洁河流小组”的当地慈善组织。",
       "segment": {
         "start": 62.82,
-        "end": 72.16
+        "end": 72.56
       },
       "units": [
         {
           "text": "Hi everyone, my name's Naomi Gallagher and I represent a local charitable organisation called the Clean River Group.",
           "segment": {
             "start": 62.82,
-            "end": 72.16
+            "end": 72.56
           }
         }
       ],
@@ -37,14 +37,14 @@
       "zh": "我希望在今天我的演讲之后，你们中的一些人会想参与到这个小组的工作中来。",
       "segment": {
         "start": 71.36,
-        "end": 78.04
+        "end": 78.44
       },
       "units": [
         {
           "text": "I'm hoping some of you will want to become involved in the work of the group after my presentation today.",
           "segment": {
             "start": 71.36,
-            "end": 78.04
+            "end": 78.44
           }
         }
       ],
@@ -61,21 +61,42 @@
       "zh": "这个小组成立于1988年，不是由一位环境科学家，正如你可能想象的那样，而是一位理发师创立的，他厌倦了在开车往返沙龙时看到当地河边堆积如山的垃圾。",
       "segment": {
         "start": 77.24,
-        "end": 93.24
+        "end": 93.64
       },
       "units": [
         {
-          "text": "The group was set up in 1988, not by an environmental scientist, as you perhaps might imagine,",
+          "text": "The group was set up in 1988,",
           "segment": {
-            "start": 77.24,
-            "end": 85.04
+            "start": 76.94,
+            "end": 81.22
           }
         },
         {
-          "text": "but by a hairdresser, who'd become fed up of seeing piles of rubbish by the local river as he drove to and from his salon.",
+          "text": "not by an environmental scientist,",
+          "segment": {
+            "start": 79.82,
+            "end": 83.62
+          }
+        },
+        {
+          "text": "as you perhaps might imagine,",
+          "segment": {
+            "start": 82.22,
+            "end": 85.54
+          }
+        },
+        {
+          "text": "but by a hairdresser,",
           "segment": {
             "start": 84.14,
-            "end": 93.24
+            "end": 86.82
+          }
+        },
+        {
+          "text": "who'd become fed up of seeing piles of rubbish by the local river as he drove to and from his salon.",
+          "segment": {
+            "start": 85.42,
+            "end": 93.64
           }
         }
       ],
@@ -99,14 +120,14 @@
       "zh": "这个小组有许多不同的目标。",
       "segment": {
         "start": 92.44,
-        "end": 95.7
+        "end": 96.1
       },
       "units": [
         {
           "text": "The group has many different aims.",
           "segment": {
             "start": 92.44,
-            "end": 95.7
+            "end": 96.1
           }
         }
       ],
@@ -123,21 +144,28 @@
       "zh": "主要目标，正如你可能猜到的，是从河流本身和河岸边的土地上收集任何垃圾。",
       "segment": {
         "start": 94.9,
-        "end": 103.2
+        "end": 103.6
       },
       "units": [
         {
-          "text": "The primary one, as you'd probably guess,",
+          "text": "The primary one,",
           "segment": {
-            "start": 94.9,
-            "end": 97.98
+            "start": 94.6,
+            "end": 96.92
+          }
+        },
+        {
+          "text": "as you'd probably guess,",
+          "segment": {
+            "start": 95.52,
+            "end": 98.48
           }
         },
         {
           "text": "is collecting any rubbish from the river itself and from the land alongside it.",
           "segment": {
             "start": 97.08,
-            "end": 103.2
+            "end": 103.6
           }
         }
       ],
@@ -157,21 +185,42 @@
       "zh": "任何靠近水的自然物，比如枯叶，都会留在原地，但倒下的树木除外，因为它们会阻碍河流的流动并导致洪水。",
       "segment": {
         "start": 102.4,
-        "end": 114.84
+        "end": 115.24
       },
       "units": [
         {
-          "text": "Anything natural close to the water, such as dead leaves, is left where it's found,",
+          "text": "Anything natural close to the water,",
           "segment": {
-            "start": 102.4,
-            "end": 108.58
+            "start": 102.1,
+            "end": 105.56
           }
         },
         {
-          "text": "with the exception of fallen trees, which can block the flow of the river and contribute to flooding.",
+          "text": "such as dead leaves,",
+          "segment": {
+            "start": 104.16,
+            "end": 107.32
+          }
+        },
+        {
+          "text": "is left where it's found,",
+          "segment": {
+            "start": 105.92,
+            "end": 109.08
+          }
+        },
+        {
+          "text": "with the exception of fallen trees,",
           "segment": {
             "start": 107.68,
-            "end": 114.84
+            "end": 111.3
+          }
+        },
+        {
+          "text": "which can block the flow of the river and contribute to flooding.",
+          "segment": {
+            "start": 109.9,
+            "end": 115.24
           }
         }
       ],
@@ -192,14 +241,14 @@
       "zh": "如果有必要，我们会请专业人士来处理它们。",
       "segment": {
         "start": 114.04,
-        "end": 119.04
+        "end": 119.44
       },
       "units": [
         {
           "text": "We call in professional help, if needs be, to get rid of them.",
           "segment": {
             "start": 114.04,
-            "end": 119.04
+            "end": 119.44
           }
         }
       ],
@@ -216,21 +265,21 @@
       "zh": "我们还旨在向几个当地机构提供服务，向它们传递有关河流和当地环境的重要数据。",
       "segment": {
         "start": 118.24,
-        "end": 129.74
+        "end": 130.14
       },
       "units": [
         {
           "text": "We also aim to provide services to several local institutions,",
           "segment": {
-            "start": 118.24,
-            "end": 123.8
+            "start": 116.84,
+            "end": 124.3
           }
         },
         {
           "text": "passing on important data about the river and the local environment to them.",
           "segment": {
             "start": 122.9,
-            "end": 129.74
+            "end": 130.14
           }
         }
       ],
@@ -250,21 +299,21 @@
       "zh": "任何我们偶然发现的稀有动物物种，如果可能的话，都会被拍照，并将详细信息发送给当地大学的动物学系，同时，我们会立即将发现的任何河流污染情况告知市政委员会。",
       "segment": {
         "start": 128.94,
-        "end": 145.64
+        "end": 146.04
       },
       "units": [
         {
           "text": "Any rare animal species we happen to notice are photographed if possible and details sent to the zoology department of the local university,",
           "segment": {
-            "start": 128.94,
-            "end": 139.22
+            "start": 127.2,
+            "end": 139.72
           }
         },
         {
           "text": "while the council is informed immediately about any pollution we spot coming down the river.",
           "segment": {
             "start": 138.32,
-            "end": 145.64
+            "end": 146.04
           }
         }
       ],
@@ -288,14 +337,14 @@
       "zh": "那么你们大家如何参与进来呢？",
       "segment": {
         "start": 144.84,
-        "end": 148.82
+        "end": 149.22
       },
       "units": [
         {
           "text": "So how can you all get involved?",
           "segment": {
             "start": 144.84,
-            "end": 148.82
+            "end": 149.22
           }
         }
       ],
@@ -312,14 +361,14 @@
       "zh": "嗯，最简单的方法是参加我们的河流清理活动——它们非常有趣，也是结识新朋友的好方式。",
       "segment": {
         "start": 148.02,
-        "end": 156.5
+        "end": 156.9
       },
       "units": [
         {
           "text": "Well, the easiest way is to join one of our river clean-up sessions – they're great fun and a good way to meet new people.",
           "segment": {
             "start": 148.02,
-            "end": 156.5
+            "end": 156.9
           }
         }
       ],
@@ -336,35 +385,42 @@
       "zh": "这些活动以前每月举行一次，但由于我们现在有大量的志愿者，现在每次活动之间只有两周的间隔，所以如果你刚刚错过了一次活动，你不用等太久就能参加下一次。",
       "segment": {
         "start": 155.7,
-        "end": 170.54
+        "end": 170.94
       },
       "units": [
         {
           "text": "These used to take place once a month,",
           "segment": {
-            "start": 155.7,
-            "end": 158.88
+            "start": 155.4,
+            "end": 159.38
           }
         },
         {
           "text": "but thanks to the large number of volunteers we're getting these days,",
           "segment": {
             "start": 157.98,
-            "end": 162.54
+            "end": 163.04
           }
         },
         {
           "text": "there's now just two weeks between each one,",
           "segment": {
             "start": 161.64,
-            "end": 165.16
+            "end": 165.66
           }
         },
         {
-          "text": "so if you've just missed a session, you won't have long to wait before the next one.",
+          "text": "so if you've just missed a session,",
           "segment": {
             "start": 164.26,
-            "end": 170.54
+            "end": 167.76
+          }
+        },
+        {
+          "text": "you won't have long to wait before the next one.",
+          "segment": {
+            "start": 166.36,
+            "end": 170.94
           }
         }
       ],
@@ -388,21 +444,35 @@
       "zh": "在清理活动中，由赞助我们工作的当地超市提供零食以保持我们的能量水平，并且总是有充足的饮用水，我们会用我们的货车运到我们工作的地方。",
       "segment": {
         "start": 169.74,
-        "end": 184.86
+        "end": 185.26
       },
       "units": [
         {
-          "text": "At the clean-up sessions, snacks to keep our energy levels up are provided by a local supermarket that sponsors our work,",
+          "text": "At the clean-up sessions,",
           "segment": {
-            "start": 169.74,
-            "end": 177.82
+            "start": 169.44,
+            "end": 172.22
           }
         },
         {
-          "text": "and there's always plenty of drinking water, which we bring in our van to wherever we're working.",
+          "text": "snacks to keep our energy levels up are provided by a local supermarket that sponsors our work,",
           "segment": {
-            "start": 176.92,
-            "end": 184.86
+            "start": 170.82,
+            "end": 179.36
+          }
+        },
+        {
+          "text": "and there's always plenty of drinking water,",
+          "segment": {
+            "start": 177.96,
+            "end": 181.8
+          }
+        },
+        {
+          "text": "which we bring in our van to wherever we're working.",
+          "segment": {
+            "start": 180.4,
+            "end": 185.26
           }
         }
       ],
@@ -422,21 +492,14 @@
       "zh": "我们要求志愿者带上他们自己的园艺手套，而且是这种特定的手套，而不是其他任何种类。",
       "segment": {
         "start": 184.06,
-        "end": 191.84
+        "end": 192.24
       },
       "units": [
         {
-          "text": "We ask volunteers to come with their own gardening gloves,",
+          "text": "We ask volunteers to come with their own gardening gloves, and those specifically rather than any other sort.",
           "segment": {
             "start": 184.06,
-            "end": 188.02
-          }
-        },
-        {
-          "text": "and those specifically rather than any other sort.",
-          "segment": {
-            "start": 187.12,
-            "end": 191.84
+            "end": 192.24
           }
         }
       ],
@@ -457,21 +520,14 @@
       "zh": "它们很贵，我们需要控制成本，所以我们不提供。",
       "segment": {
         "start": 191.04,
-        "end": 198.34
+        "end": 198.74
       },
       "units": [
         {
-          "text": "They're expensive and we need to keep our costs down,",
+          "text": "They're expensive and we need to keep our costs down, so that's why we don't provide them.",
           "segment": {
             "start": 191.04,
-            "end": 195.2
-          }
-        },
-        {
-          "text": "so that's why we don't provide them.",
-          "segment": {
-            "start": 194.3,
-            "end": 198.34
+            "end": 198.74
           }
         }
       ],
@@ -488,21 +544,14 @@
       "zh": "我们发现并捡起了大量的、种类繁多的垃圾。",
       "segment": {
         "start": 197.54,
-        "end": 203.9
+        "end": 204.3
       },
       "units": [
         {
-          "text": "We find and pick up a huge amount,",
+          "text": "We find and pick up a huge amount, and a huge range, of litter.",
           "segment": {
             "start": 197.54,
-            "end": 200.88
-          }
-        },
-        {
-          "text": "and a huge range, of litter.",
-          "segment": {
-            "start": 199.98,
-            "end": 203.9
+            "end": 204.3
           }
         }
       ],
@@ -519,14 +568,14 @@
       "zh": "人们有时会问我们最常发现哪种垃圾。",
       "segment": {
         "start": 203.1,
-        "end": 208.34
+        "end": 208.74
       },
       "units": [
         {
           "text": "People sometimes ask what kinds of litter we find most often.",
           "segment": {
             "start": 203.1,
-            "end": 208.34
+            "end": 208.74
           }
         }
       ],
@@ -543,21 +592,28 @@
       "zh": "嗯，塑料袋在榜单上排名靠前，正如你可能想象的那样，但纸杯实际上排在首位，仅次于饮料罐。",
       "segment": {
         "start": 207.54,
-        "end": 217.94
+        "end": 218.34
       },
       "units": [
         {
           "text": "Well, plastic bags are high on the list,",
           "segment": {
-            "start": 207.54,
-            "end": 211.08
+            "start": 207.24,
+            "end": 211.58
           }
         },
         {
-          "text": "as you'd probably imagine but paper cups are actually at the top, just above drinks cans.",
+          "text": "as you'd probably imagine but paper cups are actually at the top,",
           "segment": {
             "start": 210.18,
-            "end": 217.94
+            "end": 216.18
+          }
+        },
+        {
+          "text": "just above drinks cans.",
+          "segment": {
+            "start": 214.78,
+            "end": 218.34
           }
         }
       ],
@@ -578,21 +634,14 @@
       "zh": "塑料瓶的数量实际上正在下降，这要归功于许多人现在更喜欢携带可重复使用的瓶子。",
       "segment": {
         "start": 217.14,
-        "end": 225.82
+        "end": 226.22
       },
       "units": [
         {
-          "text": "Numbers of plastic bottles are actually on the decline,",
+          "text": "Numbers of plastic bottles are actually on the decline, thanks to many people now preferring to carry refillable ones.",
           "segment": {
             "start": 217.14,
-            "end": 221.4
-          }
-        },
-        {
-          "text": "thanks to many people now preferring to carry refillable ones.",
-          "segment": {
-            "start": 220.5,
-            "end": 225.82
+            "end": 226.22
           }
         }
       ],
@@ -612,14 +661,14 @@
       "zh": "如果我们能以任何方式互相帮助，我们总是希望与其他慈善机构合作。",
       "segment": {
         "start": 225.02,
-        "end": 231.58
+        "end": 231.98
       },
       "units": [
         {
           "text": "We're always looking to team up with other charities if we can help each other in any way.",
           "segment": {
             "start": 225.02,
-            "end": 231.58
+            "end": 231.98
           }
         }
       ],
@@ -639,14 +688,21 @@
       "zh": "例如，最近我们与一个在淡水区域增加鱼类数量的组织建立了联系，这些区域的鱼类数量非常少。",
       "segment": {
         "start": 230.78,
-        "end": 241.02
+        "end": 241.42
       },
       "units": [
         {
-          "text": "In recent times, for example, we've formed links with one that increases fish populations in areas of fresh water where there are very few.",
+          "text": "In recent times,",
           "segment": {
-            "start": 230.78,
-            "end": 241.02
+            "start": 230.48,
+            "end": 232.72
+          }
+        },
+        {
+          "text": "for example, we've formed links with one that increases fish populations in areas of fresh water where there are very few.",
+          "segment": {
+            "start": 231.32,
+            "end": 241.42
           }
         }
       ],
@@ -666,14 +722,14 @@
       "zh": "我们希望很快宣布与一个名为“河流援助”的机构建立正式联系，该机构负责检测水质。",
       "segment": {
         "start": 240.22,
-        "end": 247.88
+        "end": 248.28
       },
       "units": [
         {
           "text": "We're hoping to announce formal ties with a body called RiverAid soon, which tests water quality.",
           "segment": {
             "start": 240.22,
-            "end": 247.88
+            "end": 248.28
           }
         }
       ],
@@ -694,14 +750,14 @@
       "zh": "它收集的数据随后被用于其众多活动中，以争取更清洁的河流系统。",
       "segment": {
         "start": 247.08,
-        "end": 254.38
+        "end": 258.88
       },
       "units": [
         {
           "text": "The data it gathers is then used in its many campaigns to fight for cleaner river systems.",
           "segment": {
             "start": 247.08,
-            "end": 254.38
+            "end": 258.88
           }
         }
       ],
