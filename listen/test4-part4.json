@@ -131,42 +131,6 @@
     {
       "source": "generated",
       "examNo": null,
-      "question": "How can a police officer's use of language, even without bad intention, affect a witness's memory?",
-      "keywords": [
-        "police officer's use of language",
-        "affect",
-        "witness's memory"
-      ],
-      "quote": "But it could be used, without any bad intention, by a police officer during an initial conversation for example, and then it becomes fixed in the memory of the witness.",
-      "answerSpan": "it could be used, without any bad intention, by a police officer during an initial conversation for example, and then it becomes fixed in the memory of the witness.",
-      "zh": "但它可以在没有恶意的情况下，例如在初步谈话中被警官使用，然后它就会固定在证人的记忆中。",
-      "refAnswer": "警官在初步谈话中无意间使用的主观词语，可能会固定在证人的记忆中。",
-      "examAnswer": "",
-      "segment": {
-        "start": 182.16,
-        "end": 198.9
-      },
-      "units": [
-        {
-          "text": "But it could be used, without any bad intention, by a police officer during an initial conversation for example,",
-          "segment": {
-            "start": 180.58,
-            "end": 190.08
-          }
-        },
-        {
-          "text": "and then it becomes fixed in the memory of the witness.",
-          "segment": {
-            "start": 188.68,
-            "end": 198.9
-          }
-        }
-      ],
-      "n": 4
-    },
-    {
-      "source": "generated",
-      "examNo": null,
       "question": "What is Neil's initial belief about how the presence of a weapon affects a witness's memory?",
       "keywords": [
         "Neil's initial belief",
@@ -198,7 +162,7 @@
           }
         }
       ],
-      "n": 5
+      "n": 4
     },
     {
       "source": "exam",
@@ -234,36 +198,7 @@
           }
         }
       ],
-      "n": 6
-    },
-    {
-      "source": "generated",
-      "examNo": null,
-      "question": "What specific benefit does Diana mention about living in a diverse community regarding eyewitness identification?",
-      "keywords": [
-        "specific benefit",
-        "diverse community",
-        "eyewitness identification"
-      ],
-      "quote": "Indeed, studies indicate that living in a diverse community can significantly enhance one's ability to recognise and remember information about individuals from various racial backgrounds.",
-      "answerSpan": "living in a diverse community can significantly enhance one's ability to recognise and remember information about individuals from various racial backgrounds.",
-      "zh": "事实上，研究表明，生活在多元化社区可以显著提高一个人识别和记住来自不同种族背景的人的能力。",
-      "refAnswer": "生活在多元化社区可以显著提高识别和记住不同种族背景人群的能力。",
-      "examAnswer": "",
-      "segment": {
-        "start": 243.8,
-        "end": 262.06
-      },
-      "units": [
-        {
-          "text": "Indeed, studies indicate that living in a diverse community can significantly enhance one's ability to recognise and remember information about individuals from various racial backgrounds.",
-          "segment": {
-            "start": 243.8,
-            "end": 262.06
-          }
-        }
-      ],
-      "n": 7
+      "n": 5
     },
     {
       "source": "exam",
@@ -292,7 +227,7 @@
           }
         }
       ],
-      "n": 8
+      "n": 6
     },
     {
       "source": "generated",
@@ -321,7 +256,7 @@
           }
         }
       ],
-      "n": 9
+      "n": 7
     },
     {
       "source": "generated",
@@ -351,7 +286,7 @@
           }
         }
       ],
-      "n": 10
+      "n": 8
     },
     {
       "source": "generated",
@@ -401,7 +336,7 @@
           }
         }
       ],
-      "n": 11
+      "n": 9
     },
     {
       "source": "exam",
@@ -437,7 +372,7 @@
           }
         }
       ],
-      "n": 12
+      "n": 10
     },
     {
       "source": "exam",
@@ -473,51 +408,7 @@
           }
         }
       ],
-      "n": 13
-    },
-    {
-      "source": "generated",
-      "examNo": null,
-      "question": "According to Diana, why might an elderly person with reduced eyesight still be considered a confident, but potentially unreliable, witness?",
-      "keywords": [
-        "elderly person",
-        "reduced eyesight",
-        "confident",
-        "unreliable witness"
-      ],
-      "quote": "For example, an elderly person with reduced eyesight, may still be very confident that their visual memory's accurate. I see it in court all the time. And people on juries place great weight on confidence, they equate it with accuracy.",
-      "answerSpan": "an elderly person with reduced eyesight, may still be very confident that their visual memory's accurate.",
-      "zh": "例如，一个视力下降的老年人，可能仍然非常自信他们的视觉记忆是准确的。我经常在法庭上看到这种情况。陪审团成员非常看重自信，他们将其等同于准确性。",
-      "refAnswer": "戴安娜指出，视力下降的老年人可能仍对自己的视觉记忆非常自信，但这种自信不等于准确性。",
-      "examAnswer": "",
-      "segment": {
-        "start": 544.47,
-        "end": 567.57
-      },
-      "units": [
-        {
-          "text": "For example, an elderly person with reduced eyesight, may still be very confident that their visual memory's accurate.",
-          "segment": {
-            "start": 543.29,
-            "end": 553.57
-          }
-        },
-        {
-          "text": "I see it in court all the time.",
-          "segment": {
-            "start": 552.17,
-            "end": 556.13
-          }
-        },
-        {
-          "text": "And people on juries place great weight on confidence, they equate it with accuracy.",
-          "segment": {
-            "start": 554.73,
-            "end": 567.57
-          }
-        }
-      ],
-      "n": 14
+      "n": 11
     }
   ]
 }
