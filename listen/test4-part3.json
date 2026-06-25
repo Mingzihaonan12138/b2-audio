@@ -17,20 +17,13 @@
           "text": "Today, I'm going to give you a brief introduction into how the library works and your roles here,",
           "segment": {
             "start": 57.07,
-            "end": 63.95
+            "end": 63.25
           }
         },
         {
-          "text": "but as Chief Librarian,",
+          "text": "but as Chief Librarian, my door's always open if you have questions later.",
           "segment": {
-            "start": 62.55,
-            "end": 65.53
-          }
-        },
-        {
-          "text": "my door's always open if you have questions later.",
-          "segment": {
-            "start": 64.13,
+            "start": 61.85,
             "end": 69.03
           }
         }
@@ -207,16 +200,9 @@
           }
         },
         {
-          "text": "this main library's open from Monday to Friday,",
+          "text": "this main library's open from Monday to Friday, 8.00 a.m. to 10.00 p.m.,",
           "segment": {
             "start": 117.65,
-            "end": 121.75
-          }
-        },
-        {
-          "text": "8.00 a.m. to 10.00 p.m.,",
-          "segment": {
-            "start": 120.35,
             "end": 124.21
           }
         },
@@ -305,23 +291,9 @@
       },
       "units": [
         {
-          "text": "It's quite limited,",
+          "text": "It's quite limited, but if a library user requests a particular title which isn't in our collection, we can order it from the main city library.",
           "segment": {
-            "start": 321.43,
-            "end": 323.85
-          }
-        },
-        {
-          "text": "but if a library user requests a particular title which isn't in our collection,",
-          "segment": {
-            "start": 322.45,
-            "end": 328.79
-          }
-        },
-        {
-          "text": "we can order it from the main city library.",
-          "segment": {
-            "start": 327.39,
+            "start": 321.73,
             "end": 332.13
           }
         }
@@ -401,23 +373,9 @@
       },
       "units": [
         {
-          "text": "These items are arranged alphabetically by title,",
+          "text": "These items are arranged alphabetically by title, and some of you may be spending quite a lot of your time in that section, keeping it all in order.",
           "segment": {
-            "start": 158.65,
-            "end": 163.03
-          }
-        },
-        {
-          "text": "and some of you may be spending quite a lot of your time in that section,",
-          "segment": {
-            "start": 161.63,
-            "end": 166.89
-          }
-        },
-        {
-          "text": "keeping it all in order.",
-          "segment": {
-            "start": 165.49,
+            "start": 343.17,
             "end": 353.13
           }
         }
@@ -439,44 +397,16 @@
       },
       "units": [
         {
-          "text": "Now, as you know,",
+          "text": "Now, as you know, this library's on the main campus,",
           "segment": {
             "start": 167.45,
-            "end": 169.69
-          }
-        },
-        {
-          "text": "this library's on the main campus,",
-          "segment": {
-            "start": 168.29,
             "end": 171.57
           }
         },
         {
-          "text": "but we have a smaller one,",
+          "text": "but we have a smaller one, the Johnson library, that's spelled J-O-H-N-S-O-N, on the secondary campus.",
           "segment": {
             "start": 170.17,
-            "end": 173.05
-          }
-        },
-        {
-          "text": "the Johnson library,",
-          "segment": {
-            "start": 171.65,
-            "end": 174.41
-          }
-        },
-        {
-          "text": "that's spelled J-O-H-N-S-O-N,",
-          "segment": {
-            "start": 173.01,
-            "end": 177.39
-          }
-        },
-        {
-          "text": "on the secondary campus.",
-          "segment": {
-            "start": 175.99,
             "end": 363.81
           }
         }
@@ -616,16 +546,9 @@
       },
       "units": [
         {
-          "text": "It's a huge help,",
+          "text": "It's a huge help, especially for those students who're having to do late-night study sessions as registered users can access the online resources from their own homes.",
           "segment": {
-            "start": 203.19,
-            "end": 205.53
-          }
-        },
-        {
-          "text": "especially for those students who're having to do late-night study sessions as registered users can access the online resources from their own homes.",
-          "segment": {
-            "start": 204.13,
+            "start": 387.73,
             "end": 397.71
           }
         }
@@ -646,7 +569,7 @@
       "zh": "尽管我们希望图书馆是一个友好的地方，但我们也需要维护一个有利于学习的环境，所以你们需要提醒用户保持安静，尤其是在学习区。",
       "segment": {
         "start": 396.51,
-        "end": 415.79
+        "end": 417.29
       },
       "units": [
         {
@@ -664,17 +587,10 @@
           }
         },
         {
-          "text": "so you'll need to remind users to keep the noise down,",
+          "text": "so you'll need to remind users to keep the noise down, especially in the study areas.",
           "segment": {
             "start": 219.27,
-            "end": 224.73
-          }
-        },
-        {
-          "text": "especially in the study areas.",
-          "segment": {
-            "start": 223.33,
-            "end": 415.79
+            "end": 417.29
           }
         }
       ],
